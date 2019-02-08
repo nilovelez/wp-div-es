@@ -38,10 +38,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you feel like you don’t have anything worth sharing?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190207T184049Z" creationid="Sheila" creationdate="20190207T184049Z">
+        <seg>Sente que não sabe nada que valha a pena compartilhar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do you have no idea what to talk about?</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20190207T111630Z" creationid="Sheila" creationdate="20190207T111630Z">
-        <seg>Com</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190207T184035Z" creationid="Sheila" creationdate="20190207T111630Z">
+        <seg>Você não tem ideia do que falar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>During this hands-on session, we’ll look at what has stopped you from speaking in the past — and explore how to move past your fears.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190207T184124Z" creationid="Sheila" creationdate="20190207T184124Z">
+        <seg>Durante esta sessão prática, vamos observar o que impediu você de falar no passado e explorar como superar seus medos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74,6 +90,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190121T173912Z" creationid="Sheila" creationdate="20190121T173912Z">
         <seg>As lições neste módulo incluem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We will discuss some common myths about public speaking, different talk formats, and we will focus on finding your areas of expertise (yes, you have areas of expertise!).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190208T013544Z" creationid="Sheila" creationdate="20190208T013544Z">
+        <seg>We will discuss some common myths about public speaking, different talk formats, and we will focus on finding your areas of expertise (yes, you have areas of expertise!).</seg>
       </tuv>
     </tu>
     <tu>
