@@ -6,10 +6,42 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>***You do NOT have to have any experience in public speaking.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T162638Z" creationid="Sheila" creationdate="20190210T162638Z">
+        <seg>***Você NÃO precisa ter experiência em falar em público.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Accessibility</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T163103Z" creationid="Sheila" creationdate="20190210T163103Z">
+        <seg>Acessibilidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Agenda</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T162911Z" creationid="Sheila" creationdate="20190210T162911Z">
+        <seg>Pauta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Becoming a Better Speaker</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190121T174102Z" creationid="Sheila" creationdate="20190121T174102Z">
         <seg>Como se tornar um orador melhor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Coming up with topics and choosing one</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T163042Z" creationid="Sheila" creationdate="20190210T163042Z">
+        <seg>Levantar tópicos e escolher um</seg>
       </tuv>
     </tu>
     <tu>
@@ -38,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dispelling some myths about speakers/speaking</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T163024Z" creationid="Sheila" creationdate="20190210T162932Z">
+        <seg>Desfazer alguns mitos sobre palestrantes/falar em público</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do you feel like you don’t have anything worth sharing?</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190207T184049Z" creationid="Sheila" creationdate="20190207T184049Z">
@@ -62,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each participant will come out of the workshop with a WordCamp or meetup talk idea — and more confidence to submit it.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T162617Z" creationid="Sheila" creationdate="20190210T162617Z">
+        <seg>Cada participante sairá da oficina com uma ideia para apresnetar em um WordCamp ou Meetup, e com mais confiança para apresentá-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finding a Topic for a WordPress Talk</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190121T173929Z" creationid="Sheila" creationdate="20190121T173929Z">
@@ -74,6 +122,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190121T174221Z" creationid="Sheila" creationdate="20190121T174221Z">
         <seg>Como escolher um tópico para uma palestra sobre o WordPress [e promoção de diversidade entre palestrantes]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Have several ideas for topics you could speak about</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T192729Z" creationid="Sheila" creationdate="20190210T192729Z">
+        <seg>Ter várias idéias para tópicos sobre os quais você poderia falar</seg>
       </tuv>
     </tu>
     <tu>
@@ -94,10 +150,130 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Many people are allergic to them.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T163151Z" creationid="Sheila" creationdate="20190210T163151Z">
+        <seg>Muitas pessoas são alérgicas a eles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>N/A</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T163226Z" creationid="Sheila" creationdate="20190210T163226Z">
+        <seg>Não se aplica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Objectives #Objectives</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T163238Z" creationid="Sheila" creationdate="20190210T163238Z">
+        <seg>Objetivos #Objetivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please do not wear scents.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T163147Z" creationid="Sheila" creationdate="20190210T163147Z">
+        <seg>Por favor, não use perfume.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Practice giving a short talk</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T163057Z" creationid="Sheila" creationdate="20190210T163057Z">
+        <seg>Praticar fazendo uma palestra curta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Prerequisite Skills #Prerequisite Skills</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T163219Z" creationid="Sheila" creationdate="20190210T163219Z">
+        <seg>Habilidades necessárias #Habilidades necessárias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The venue has [elevators, ramps, etc.], [single stall washrooms for non-binary genders], [etc.].</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T163138Z" creationid="Sheila" creationdate="20190210T163138Z">
+        <seg>O local tem [elevadores, rampas, etc.], [banheiros com compartimentos separados para gêneros não-binários], [etc.].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This workshop is NOT for you if:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T162804Z" creationid="Sheila" creationdate="20190210T162804Z">
+        <seg>Esta oficina NÃO é para você se:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This workshop is for all levels of experience.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T162659Z" creationid="Sheila" creationdate="20190210T162659Z">
+        <seg>Esta oficina é para todos os níveis de experiência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This workshop is for you if:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T162704Z" creationid="Sheila" creationdate="20190210T162704Z">
+        <seg>Esta oficina é para você se:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We will brainstorm topics you can talk about at a WordCamp or other event.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T162549Z" creationid="Sheila" creationdate="20190210T162549Z">
+        <seg>Vamos fazer um apanhado de tópicos sobre os quais você pode falar em um WordCamp ou outro evento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We will discuss some common myths about public speaking, different talk formats, and we will focus on finding your areas of expertise (yes, you have areas of expertise!).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T162526Z" creationid="Sheila" creationdate="20190210T162526Z">
+        <seg>Vamos discutir alguns mitos comuns sobre falar em público, formatos de conversa diferentes e focar em encontrar suas áreas de especialização (sim, você tem áreas de especialização!).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Why speak at WordPress events?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T162915Z" creationid="Sheila" creationdate="20190210T162915Z">
+        <seg>Por que falar em eventos WordPress?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Writing the Pitch for your WordPress Talk</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190121T174011Z" creationid="Sheila" creationdate="20190121T174011Z">
         <seg>Como criar o conteúdo da sua palestra sobre o WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You think you don’t know anything worth speaking about</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T162752Z" creationid="Sheila" creationdate="20190210T162752Z">
+        <seg>Você acha que não sabe de nada que valha a pena falar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You’ve thought about speaking at Meetup or WordCamp but haven’t been able to think of a topic</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T162740Z" creationid="Sheila" creationdate="20190210T162740Z">
+        <seg>Você já pensou em falar em um Meetup ou WordCamp, mas não consegue pensar em um tópico</seg>
       </tuv>
     </tu>
     <tu>
@@ -114,6 +290,38 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190121T174306Z" creationid="Sheila" creationdate="20190121T174306Z">
         <seg>[Se você estiver apresentando isso a um grupo específico, como pessoas que se identificam como mulheres, seções opcionais a serem adicionadas são indicadas entre [colchetes].]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[Why do we need more &lt;specific group&gt; speaking at them?]</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T162941Z" creationid="Sheila" creationdate="20190210T162930Z">
+        <seg>[Por que precisamos de mais &lt;grupo específico&gt; falando neles?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[You don’t think it matters that there are very few &lt;specific group&gt; speakers at WordPress events]</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T162905Z" creationid="Sheila" creationdate="20190210T162905Z">
+        <seg>[Você não acha que importa que existam muito pouca gente &lt;grupo específico&gt; palestrando em eventos do WordPress]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[You identify as &lt;not specific group&gt;]</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T162820Z" creationid="Sheila" creationdate="20190210T162820Z">
+        <seg>[Você se identifica como &lt;grupo não específico&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[You identify as &lt;specific group&gt;]</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T162722Z" creationid="Sheila" creationdate="20190210T162722Z">
+        <seg>[Você se identifica como &lt;grupo específico&gt;]</seg>
       </tuv>
     </tu>
     <tu>
