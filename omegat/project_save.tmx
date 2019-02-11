@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A large device that can show a countdown timer for the timed speaking presentations, such as an iPad</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T193201Z" creationid="Sheila" creationdate="20190210T193201Z">
+        <seg>Um dispositivo grande de contagem regressiva para as apresentações cronometradas, como um iPad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Accessibility</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T163103Z" creationid="Sheila" creationdate="20190210T163103Z">
@@ -26,6 +34,22 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T162911Z" creationid="Sheila" creationdate="20190210T162911Z">
         <seg>Pauta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Apply what you have learned to your own outline.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T192930Z" creationid="Sheila" creationdate="20190210T192930Z">
+        <seg>Aplicar o que você aprendeu em seu próprio esboço.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Assets #Assets</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T193118Z" creationid="Sheila" creationdate="20190210T193118Z">
+        <seg>Recursos #Recursos</seg>
       </tuv>
     </tu>
     <tu>
@@ -134,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Identify many of the fears that have stopped you from public speaking.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T193047Z" creationid="Sheila" creationdate="20190210T193019Z">
+        <seg>Identificar muitos dos medos que impedem você de falar em público.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Imposter Syndrome</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190121T174117Z" creationid="Sheila" creationdate="20190121T174117Z">
@@ -190,10 +222,50 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Practice public speaking in front of a small group to help build confidence.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T193027Z" creationid="Sheila" creationdate="20190210T193018Z">
+        <seg>Praticar a fala em público em um grupo pequeno para ajudar a criar confiança.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Prerequisite Skills #Prerequisite Skills</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T163219Z" creationid="Sheila" creationdate="20190210T163219Z">
         <seg>Habilidades necessárias #Habilidades necessárias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recall the different types of talk formats.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T192950Z" creationid="Sheila" creationdate="20190210T192950Z">
+        <seg>Discutir os tipos de formatos de conversa diferentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recognize the basics of a good outline.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T192914Z" creationid="Sheila" creationdate="20190210T192914Z">
+        <seg>Compreender os fundamentos de um bom esboço.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Screening Questions #Screening Questions</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190211T003642Z" creationid="Sheila" creationdate="20190211T003642Z">
+        <seg>Perguntas de seleção #Perguntas de seleção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sign up sheet, clipboard, pen</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T193218Z" creationid="Sheila" creationdate="20190210T193218Z">
+        <seg>Folha de presebça, prancheta, caneta</seg>
       </tuv>
     </tu>
     <tu>
@@ -254,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Workbook</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T193134Z" creationid="Sheila" creationdate="20190210T193134Z">
+        <seg>Material de referência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Writing the Pitch for your WordPress Talk</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190121T174011Z" creationid="Sheila" creationdate="20190121T174011Z">
@@ -290,6 +370,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190121T174306Z" creationid="Sheila" creationdate="20190121T174306Z">
         <seg>[Se você estiver apresentando isso a um grupo específico, como pessoas que se identificam como mulheres, seções opcionais a serem adicionadas são indicadas entre [colchetes].]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[State why we need more diversity in our public speakers.]</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T193108Z" creationid="Sheila" creationdate="20190210T193108Z">
+        <seg>[Declarar porque precisamos de mais diversidade entre nossos palestrantes.]</seg>
       </tuv>
     </tu>
     <tu>
