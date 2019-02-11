@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After, encourage them via a sign-up sheet or follow up email to give their contact information to agree to chat further about speaking at an event.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190211T003921Z" creationid="Sheila" creationdate="20190211T003921Z">
+        <seg>Depois, incentive-os através de uma folha de inscrição ou acompanhamento por e-mail a dar suas informações de contato para conversar mais a respeito de falar em um evento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Agenda</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T162911Z" creationid="Sheila" creationdate="20190210T162911Z">
@@ -50,6 +58,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T193118Z" creationid="Sheila" creationdate="20190210T193118Z">
         <seg>Recursos #Recursos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the end when they are presenting their topics/pitches/outlines, change the room to presentation format (seats in rows facing forward toward the speaker)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190211T003844Z" creationid="Sheila" creationdate="20190211T003844Z">
+        <seg>No final, quando eles estão apresentando seus tópicos/resumos/esboços, mude a sala para o formato de apresentação (assentos em fileiras voltadas para a frente para o palestrante)</seg>
       </tuv>
     </tu>
     <tu>
@@ -154,6 +170,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T192729Z" creationid="Sheila" creationdate="20190210T192729Z">
         <seg>Ter várias idéias para tópicos sobre os quais você poderia falar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Have the group sit in chairs in a circle, or in small groups around tables for most of the sessions.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190211T003759Z" creationid="Sheila" creationdate="20190211T003759Z">
+        <seg>Faça o grupo se sentar em cadeiras em um círculo, ou em pequenos grupos em torno de mesas para a maioria das sessões.</seg>
       </tuv>
     </tu>
     <tu>
@@ -270,10 +294,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Teacher Notes #Teacher Notes</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190211T003714Z" creationid="Sheila" creationdate="20190211T003714Z">
+        <seg>Notas do facilitador #Notas do facilitador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The venue has [elevators, ramps, etc.], [single stall washrooms for non-binary genders], [etc.].</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T163138Z" creationid="Sheila" creationdate="20190210T163138Z">
         <seg>O local tem [elevadores, rampas, etc.], [banheiros com compartimentos separados para gêneros não-binários], [etc.].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are sections that repeat in each which only need to be covered once.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190211T003740Z" creationid="Sheila" creationdate="20190211T003740Z">
+        <seg>Há seções que se repetem em cada um que só precisam ser cobertas uma vez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This lesson plan can be run alone or together with several other Speaker lesson plans.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190211T003730Z" creationid="Sheila" creationdate="20190211T003730Z">
+        <seg>Este plano de aula pode ser executado sozinho ou em conjunto com vários outros planos de aula de palestrante</seg>
       </tuv>
     </tu>
     <tu>
@@ -362,6 +410,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190121T174358Z" creationid="Sheila" creationdate="20190121T174358Z">
         <seg>[Você é uma pessoa que se identifica como um &lt;grupo específico&gt;?] Você já pensou em se apresentar em um WordCamp mas achou que não sabia o suficiente ou se sentia como um(a) impostor(a)?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[Do you identify as &lt;specific group&gt;?]</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190211T003656Z" creationid="Sheila" creationdate="20190211T003656Z">
+        <seg>[Você se identifica como &lt;grupo específico&gt;?]</seg>
       </tuv>
     </tu>
     <tu>
