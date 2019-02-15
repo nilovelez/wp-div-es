@@ -86,6 +86,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>### Introductions [Long Version — Interview Neighbor ice breaker game]</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142708Z" creationid="Sheila" creationdate="20190215T142708Z">
+        <seg>### Apresentações [Versão longa - entrevista com o vizinho e jogo para quebrar o gelo]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>### Introductions [Short Version]</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142824Z" creationid="Sheila" creationdate="20190215T142824Z">
+        <seg>### Apresentações [versão curta]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>### Why are we holding a workshop for {specific group}</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T135814Z" creationid="Sheila" creationdate="20190215T135814Z">
@@ -198,6 +214,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* If a movie of your life was made, which actor would you want to play you?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142741Z" creationid="Sheila" creationdate="20190215T142741Z">
+        <seg>* Se fizesem um filme de sua vida, que ator ou atriz você gostaria que interpretasse você?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* If you could have dinner with any person, living or dead, who would it be?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142745Z" creationid="Sheila" creationdate="20190215T142745Z">
+        <seg>* Se pudesse jantar com qualquer pessoa, viva ou morta, quem seria?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* Introductions</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142401Z" creationid="Sheila" creationdate="20190215T142401Z">
@@ -232,8 +264,8 @@
       <tuv lang="EN">
         <seg>* Narrowing Your Topic Selection</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142609Z" creationid="Sheila" creationdate="20190215T142609Z">
-        <seg>* Narrowing Your Topic Selection</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142632Z" creationid="Sheila" creationdate="20190215T142609Z">
+        <seg>* Como reduzir sua seleção de tópicos</seg>
       </tuv>
     </tu>
     <tu>
@@ -262,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* Present Your Topic</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142641Z" creationid="Sheila" creationdate="20190215T142641Z">
+        <seg>* Como apresentar seu tópico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* Recall the different types of talk formats.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140043Z" creationid="Sheila" creationdate="20190215T140043Z">
@@ -274,6 +314,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140025Z" creationid="Sheila" creationdate="20190215T140025Z">
         <seg>* Compreender os fundamentos de um bom esboço.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Refining Your Chosen Topic</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142637Z" creationid="Sheila" creationdate="20190215T142637Z">
+        <seg>* Como refinar o tópico escolhido</seg>
       </tuv>
     </tu>
     <tu>
@@ -326,6 +374,62 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* What country would you most like to travel to?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142736Z" creationid="Sheila" creationdate="20190215T142736Z">
+        <seg>* Para qual país você mais gostaria de viajar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* What got you into WordPress?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142733Z" creationid="Sheila" creationdate="20190215T142733Z">
+        <seg>* O que trouxe você ao WordPress?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* What is one fun thing you did this week?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142800Z" creationid="Sheila" creationdate="20190215T142800Z">
+        <seg>* Diga uma coisa divertida que você fez esta semana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* What is the most life altering experience you’ve had in the last five years?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142756Z" creationid="Sheila" creationdate="20190215T142756Z">
+        <seg>* Qual foi a experiência mais impactante, de mudar a vida mesmo, você teve nos últimos cinco anos?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* What is your favorite way to waste time at work, without getting caught?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142750Z" creationid="Sheila" creationdate="20190215T142750Z">
+        <seg>* Qual é a sua forma favorita de perder tempo no trabalho, sem ser pego?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* What is your speaking experience, if any?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142841Z" creationid="Sheila" creationdate="20190215T142841Z">
+        <seg>* Qual é a sua experiência de falar em público, se houver?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* What you want out of the workshop</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142845Z" creationid="Sheila" creationdate="20190215T142845Z">
+        <seg>* O que você espera da oficina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* Why Do You Want To Speak?</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142445Z" creationid="Sheila" creationdate="20190215T142445Z">
@@ -346,6 +450,30 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T132646Z" creationid="Sheila" creationdate="20190215T132646Z">
         <seg>* Você acha que não sabe de nada que valha a pena falar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Your WordPress experience</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142837Z" creationid="Sheila" creationdate="20190215T142837Z">
+        <seg>* Sua experiência com WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Your name</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142830Z" creationid="Sheila" creationdate="20190215T142830Z">
+        <seg>* Seu nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Your preferred pronoun</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142834Z" creationid="Sheila" creationdate="20190215T142834Z">
+        <seg>* Seu pronome preferido</seg>
       </tuv>
     </tu>
     <tu>
@@ -1066,6 +1194,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190121T173912Z" creationid="Sheila" creationdate="20190121T173912Z">
         <seg>As lições neste módulo incluem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Let's all introduce ourselves.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142711Z" creationid="Sheila" creationdate="20190215T142711Z">
+        <seg>Vamos todos nos apresentar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1986,6 +2122,30 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T162722Z" creationid="Sheila" creationdate="20190210T162722Z">
         <seg>[Você se identifica como &lt;grupo específico&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>_(Choose the short or long version of introductions, depending on how much time you have.)_</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142651Z" creationid="Sheila" creationdate="20190215T142651Z">
+        <seg>_(Escolha a versão curta ou longa das apresentações, dependendo de quanto tempo tiver.)_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>_(Instructor may need to vary the time based on workshop attendance and time available)_ Ask your neighbor to answer one of these questions.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142726Z" creationid="Sheila" creationdate="20190215T142726Z">
+        <seg>_(A pessoa instrutora pode ter que variar o tempo de acordo com o público e tempo disponível)_ Peça ao seu vizinho para responder a uma dessas perguntas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>_(Instructor might want to hold up a tablet with a count-down timer)_</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142815Z" creationid="Sheila" creationdate="20190215T142815Z">
+        <seg>_(A pessoa instrutora pode segurar um tablet com contagem regressiva)_</seg>
       </tuv>
     </tu>
     <tu>
