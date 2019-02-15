@@ -310,6 +310,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* Biggest block you’ve ever had with WordPress?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T185845Z" creationid="Sheila" creationdate="20190215T185845Z">
+        <seg>* Qual foi o maior bloqueio que você já teve com o WordPress?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Biggest challenge in WordPress in the last year or two</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T185820Z" creationid="Sheila" creationdate="20190215T185807Z">
+        <seg>* Qual foi seu maior desafio no WordPress no último ano ou no ano anterior?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* Coming up with topics and choosing one</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T135731Z" creationid="Sheila" creationdate="20190215T135731Z">
@@ -330,6 +346,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T135715Z" creationid="Sheila" creationdate="20190215T135715Z">
         <seg>* Como desfazer mitos sobre palestrantes/falar em público</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* First time you: child theme, wrote plugin, etc.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T185832Z" creationid="Sheila" creationdate="20190215T185803Z">
+        <seg>* Qual foi a primeira vez que você: usou um tema filho, criou um plugin, etc.?</seg>
       </tuv>
     </tu>
     <tu>
@@ -494,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* The last thing that you learned?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T185838Z" creationid="Sheila" creationdate="20190215T185811Z">
+        <seg>* Qual foi a última coisa que você aprendeu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* The note about getting up and moving around whenever they want to is for accessibility for those who get antsy in their bodies.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T141006Z" creationid="Sheila" creationdate="20190215T141006Z">
@@ -526,10 +558,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* What are you most passionate about when it comes to WordPress?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T185853Z" creationid="Sheila" creationdate="20190215T185853Z">
+        <seg>* O que você mais ama em relação ao WordPress?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* What country would you most like to travel to?</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142736Z" creationid="Sheila" creationdate="20190215T142736Z">
         <seg>* Para qual país você mais gostaria de viajar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* What do you love about it?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T185120Z" creationid="Sheila" creationdate="20190215T185120Z">
+        <seg>* O que você ama em relação ao WordPress?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* What do you want to learn next?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T185756Z" creationid="Sheila" creationdate="20190215T185756Z">
+        <seg>* O que você quer aprender a seguir?</seg>
       </tuv>
     </tu>
     <tu>
@@ -570,6 +626,22 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142841Z" creationid="Sheila" creationdate="20190215T142841Z">
         <seg>* Qual é a sua experiência de falar em público, se houver?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* What keeps you in it?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T185108Z" creationid="Sheila" creationdate="20190215T185108Z">
+        <seg>* O que mantém você usando o WordPress?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* What sorts of things do you love sharing with others about WP?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T185952Z" creationid="Sheila" creationdate="20190215T185952Z">
+        <seg>* Que tipo de coisas você adora compartilhar com outras pessoas sobre o WP?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1352,8 +1424,8 @@
       <tuv lang="EN">
         <seg>How did you learn it?</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
-        <seg>Como você aprendeu isso?</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T185841Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>* Como você aprendeu isso?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1822,6 +1894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remember, it's always great to talk about what excites YOU - not what you think you should talk about.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T185032Z" creationid="Sheila" creationdate="20190215T185032Z">
+        <seg>Lembre-se, é sempre bom falar sobre coisas que empolgam você, não sobre o que você acha que os outros gostariam de ouvir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rewarding, feeling of accomplishment</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011458Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
@@ -2264,8 +2344,8 @@
       <tuv lang="EN">
         <seg>What most excites you?</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
-        <seg>O que mais empolga você?</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T185901Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>* O que mais empolga você?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2610,6 +2690,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142815Z" creationid="Sheila" creationdate="20190215T142815Z">
         <seg>_(A pessoa instrutora pode segurar um tablet com contagem regressiva)_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>_(These prompts are only suggestions that you can adapt according to the group's traits and needs.)_</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T185056Z" creationid="Sheila" creationdate="20190215T185056Z">
+        <seg>_(Essas são apenas sugestões que você pode adaptar de acordo com as características e necessidades do grupo.)_</seg>
       </tuv>
     </tu>
     <tu>
