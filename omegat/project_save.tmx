@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>"How to make a plugin" might be someone walking through how to make it, maybe even live coding, and then at the end, there are questions.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T175647Z" creationid="Sheila" creationdate="20190215T175647Z">
+        <seg>"Como fazer um plugin" pode ter alguém explicando como fazer isso, talvez até programando ao vivo e, no final, abrir para perguntas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg># Finding a Topic for a WordPress Talk [and Diversity Speaker Outreach]</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142246Z" creationid="Sheila" creationdate="20190215T012800Z">
@@ -70,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>### Big Brain Dump</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T180101Z" creationid="Sheila" creationdate="20190215T180101Z">
+        <seg>### Toró de ideias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>### Dispelling The Myths (What We Think A Speaker Is vs What They Actually Are)</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T172625Z" creationid="Sheila" creationdate="20190215T172625Z">
@@ -110,10 +126,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>### Talk Formats</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T173718Z" creationid="Sheila" creationdate="20190215T173718Z">
+        <seg>### Formatos de atividades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>### What We Are Looking For</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T172555Z" creationid="Sheila" creationdate="20190215T172555Z">
         <seg>### O que procuramos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>### Why Do You Want To Speak?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T173636Z" creationid="Sheila" creationdate="20190215T173618Z">
+        <seg>### Por que você quer palestrar?</seg>
       </tuv>
     </tu>
     <tu>
@@ -134,10 +166,90 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>#### **Myth 2: People will ask questions I can’t answer, and I’ll look like a fool.**</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T173245Z" creationid="Sheila" creationdate="20190215T173245Z">
+        <seg>#### **Mito 2: as pessoas vão fazer perguntas que eu posso não saber responder, e vou parecer tolo(a).**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>#### **Myth 3: I’m too nervous to speak!**</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T173354Z" creationid="Sheila" creationdate="20190215T173354Z">
+        <seg>#### **Mito 3: Sou muito nervosa(o) para falar!**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>#### **Myth 4: I have failed if everyone in the audience isn’t totally engaged**.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T173433Z" creationid="Sheila" creationdate="20190215T173424Z">
+        <seg>#### **Mito 4: Eu falhei se nem todos na plateia estiverem prestando atenção**.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>#### **Myth 5: A talk followed by a Q&amp;A is the only format I can use to share my knowledge.**</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T173526Z" creationid="Sheila" creationdate="20190215T173526Z">
+        <seg>#### **Mito 5: Uma palestra seguida por uma sessão de perguntas e respostas é o único formato que posso usar para compartilhar meus conhecimentos.**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(e.g. I don’t know much about making plugins but I’ve made one for custom post types).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
         <seg>(por exemplo, eu não sei muito sobre como fazer plugins, mas fiz um para tipos de postagem personalizados).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* **Case Study:** The story of how you created one thing, in particular</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T175833Z" creationid="Sheila" creationdate="20190215T175833Z">
+        <seg>* **Estudo de caso:** a história de como você criou algo em particular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* **Discussion:** You are the facilitator on a topic and the audience discusses it together</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T175743Z" creationid="Sheila" creationdate="20190215T175743Z">
+        <seg>* **Discussão:** você é o facilitador de um tópico e discute junto com o público together</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* **How To:** The standard way that tech talks happen</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T175724Z" creationid="Sheila" creationdate="20190215T175724Z">
+        <seg>* **Como fazer:** uma forma comum de atividade em eventos de tecnologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* **Panel:** Multiple people answer questions on the same topic</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T175800Z" creationid="Sheila" creationdate="20190215T175800Z">
+        <seg>* **Painel:** várias pessoas respondem a perguntas sobre o mesmo tópico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* **Story-based:** This could be how you learned something, mistakes you made, or any other narrative format</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T175818Z" creationid="Sheila" creationdate="20190215T175818Z">
+        <seg>* **Contar histórias:** pode ser sobre como você aprendeu alguma coisa, erros cometidos ou qualquer outro formato de narrativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* **Workshop:** A hands-on learning experience where people bring their laptops and create a thing as you go</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T175848Z" creationid="Sheila" creationdate="20190215T175848Z">
+        <seg>* **Oficina:** uma experiência de aprendizado prático onde as pessoas trazem seus laptops e criam algo com sua orientação</seg>
       </tuv>
     </tu>
     <tu>
@@ -154,6 +266,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140845Z" creationid="Sheila" creationdate="20190215T140845Z">
         <seg>* Depois, usando uma folha de inscrição ou acompanhamento por e-mail, incentive-os a dar suas informações de contato para conversar mais a respeito de falar em um evento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Also, remember that it’s okay to say, “I don’t know” – people will think more highly of you if you admit you don’t know than if you try to make up an answer.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T173344Z" creationid="Sheila" creationdate="20190215T173344Z">
+        <seg>* Além disso, lembre-se de que não há problema em dizer, "Eu não sei". As pessoas vão ter mais respeito por você, se admitir que não sabe em vez de tentar inventar uma resposta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -358,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* Sometimes people ask questions that are off topic – feel free to tell them their question is off-topic and you would be happy to discuss it with them later.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T173337Z" creationid="Sheila" creationdate="20190215T173337Z">
+        <seg>* Às vezes as pessoas fazem perguntas que estão fora do tema. Fique à vontade para dizer que a pergunta está fora do tema e que você pode discuti-la com eles mais tarde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* Talk Formats</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142501Z" creationid="Sheila" creationdate="20190215T142448Z">
@@ -466,6 +594,22 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T135644Z" creationid="Sheila" creationdate="20190215T135644Z">
         <seg>* Por que falar em eventos WordPress?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* You can ask if anyone in the audience has the answer.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T173326Z" creationid="Sheila" creationdate="20190215T173326Z">
+        <seg>* Você pode perguntar se alguém na platéia sabe a resposta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* You can tell them you will look up the answer and get back to them.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T173330Z" creationid="Sheila" creationdate="20190215T173330Z">
+        <seg>* Você pode dizer que vai procurar a resposta e dar um retorno posterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -598,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>**(optional) Questions for the group:** What do you think?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T173606Z" creationid="Sheila" creationdate="20190215T173606Z">
+        <seg>**(opcional) Perguntas para o grupo:** O que você acha?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>***You do NOT have to have any experience in public speaking.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T162638Z" creationid="Sheila" creationdate="20190210T162638Z">
@@ -646,6 +798,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>10.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T173703Z" creationid="Sheila" creationdate="20190215T173703Z">
+        <seg>10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>11.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T173704Z" creationid="Sheila" creationdate="20190215T173704Z">
+        <seg>11.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T145407Z" creationid="Sheila" creationdate="20190215T145407Z">
@@ -670,6 +838,46 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>5.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T173651Z" creationid="Sheila" creationdate="20190215T173651Z">
+        <seg>5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>6.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T173654Z" creationid="Sheila" creationdate="20190215T173654Z">
+        <seg>6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>7.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T173655Z" creationid="Sheila" creationdate="20190215T173655Z">
+        <seg>7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>8.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T173700Z" creationid="Sheila" creationdate="20190215T173700Z">
+        <seg>8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>9.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T173701Z" creationid="Sheila" creationdate="20190215T173701Z">
+        <seg>9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A disproportionately large number of the speakers at WordPress meetups and WordCamps (and tech events in general) are one kind of person.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T145357Z" creationid="Sheila" creationdate="20190215T145357Z">
@@ -682,6 +890,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T193201Z" creationid="Sheila" creationdate="20190210T193201Z">
         <seg>Um dispositivo grande de contagem regressiva para as apresentações cronometradas, como um iPad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A lot of talks are big "how to" brain dump sessions.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T173723Z" creationid="Sheila" creationdate="20190215T173723Z">
+        <seg>Muitas palestras são sessões de "como fazer".</seg>
       </tuv>
     </tu>
     <tu>
@@ -806,6 +1022,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Be a role model for {my specific group}</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T173712Z" creationid="Sheila" creationdate="20190215T173712Z">
+        <seg>Ser um modelo para o {meu grupo específico}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Be seen as an authority in your field</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011437Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
@@ -826,6 +1050,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
         <seg>Pense em várias ideias de tópicos em 15 minutos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Build your confidence</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T173649Z" creationid="Sheila" creationdate="20190215T173649Z">
+        <seg>Criar confiança</seg>
       </tuv>
     </tu>
     <tu>
@@ -1046,6 +1278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>First we are going to help you answer the question, "I don't know what to talk about" or "I don't know enough about anything to give a talk."</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T180146Z" creationid="Sheila" creationdate="20190215T180146Z">
+        <seg>Agora vamos ajudar vocês a responder à pergunta: "Não sei o que falar" ou "Não sei o suficiente sobre nada para dar uma palestra".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example: If you have a favorite plugin, you can try asking who is this plugin for?</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
@@ -1142,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If they are using their phone/tablet/laptop/another device, that doesn’t mean they’re ignoring you - in fact, it might mean they are writing down your every word.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T173456Z" creationid="Sheila" creationdate="20190215T173456Z">
+        <seg>Se eles estiverem usando o smartphone/tablet/laptop/outro dispositivo, não quer dizer que eles estejam ignorando você. Na verdade, isso pode significar que eles estão anotando cada palavra sua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are giving this workshop to recruit speakers for a particular WordCamp or meetup, this is a good time to explain what you are looking for if you need speakers to speak on particular subjects or to particular audiences.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T013846Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
@@ -1186,6 +1434,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T125511Z" creationid="Sheila" creationdate="20190215T125231Z">
         <seg>Se você está planejando fazer uma, por favor, [avise-nos aqui](https://Make.WordPress.org/community/Handbook/Meetup-Organizer/Event-formats/Diversity-Speaker-Training-Workshop/) ou envie uma mensagem a @jillbinder no Slack.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you've only talked once, why did you not do it again?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T173623Z" creationid="Sheila" creationdate="20190215T173617Z">
+        <seg>Se você só falou uma vez, por que você não tentou de novo?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1278,6 +1534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Learn at conferences - speaking teaches you more</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T173659Z" creationid="Sheila" creationdate="20190215T173659Z">
+        <seg>Aprender em conferências, falar faz a gente aprender</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Lessons in this module include:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190121T173912Z" creationid="Sheila" creationdate="20190121T173912Z">
@@ -1310,10 +1574,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Many people in {our specific group} set a much higher bar for “expert” knowledge than other people do.] Many communities have surveyed their members to ask what kind of information they want to learn at meetups and WordCamps, and most people request beginner topics.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T173219Z" creationid="Sheila" creationdate="20190215T173219Z">
+        <seg>Muitas pessoas em {nosso grupo específico} definem um nível muito maior para o conhecimento de um "especialista" do que outras pessoas.] Muitas comunidades têm pesquisado entre seus membros sobre o tipo de informação que eles querem aprender em Meetups e WordCamps, e a maioria das pessoas pedem tópicos para iniciantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Many {specific group}, by nature of having had different life experiences, would approach problems differently.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T135852Z" creationid="Sheila" creationdate="20190215T135852Z">
         <seg>Muitos(as) {grupo específico}, por terem tido experiências de vida diferentes, abordariam problemas de forma diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Meet people - be part of the community</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T173653Z" creationid="Sheila" creationdate="20190215T173653Z">
+        <seg>Conhecer pessoas, integrar a comunidade</seg>
       </tuv>
     </tu>
     <tu>
@@ -1346,6 +1626,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T135913Z" creationid="Sheila" creationdate="20190215T135913Z">
         <seg>Agora que falamos sobre o porquê de fazermos esta oficina para {grupo específico} [ou: que tipo de coisas estamos procurando], mitos sobre o que é preciso para ser palestrante e por que você quer palestrar, vamos falar sobre atividades reais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now we are going to do exercises and you can ask for help in your groups.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T180135Z" creationid="Sheila" creationdate="20190215T180129Z">
+        <seg>Agora vamos fazer exercícios e vocês podem pedir ajuda em seus grupos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1590,6 +1878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some events offer the opportunity for lightning talks - this is a great format if you’re nervous because it’s okay to talk fast and it’s over quickly.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T173549Z" creationid="Sheila" creationdate="20190215T173549Z">
+        <seg>Alguns eventos oferecem palestras relâmpago. Esse é um ótimo formato, se você está nervoso(a), porque não há problema em falar rápido e acaba logo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sometimes when you’re speaking, you will look out at the audience and it will look like everyone is bored.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011335Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
@@ -1646,6 +1942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>That’s okay - no speaker can connect with everyone.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T173504Z" creationid="Sheila" creationdate="20190215T173504Z">
+        <seg>E tudo bem, nenhum palestrante pode se conectar com todos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>That’s okay, you don’t have to be an expert!</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T010638Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
@@ -1674,6 +1978,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
         <seg>Vamos apenas tirá-las da cabeça, sejam boas, ruins ou feias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The more you practice - in front of pets, family, friends, the mirror, small audiences - the less nervous you will be.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T173405Z" creationid="Sheila" creationdate="20190215T173405Z">
+        <seg>Quanto mais você praticar, para seus animais de estimação, família, amigos, o espelho, pequenas audiências, menos nervoso(a) você ficará.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1918,10 +2230,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We're not looking for "perfect" or even "good" ideas.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T180159Z" creationid="Sheila" creationdate="20190215T180159Z">
+        <seg>Não estamos procurando ideias "perfeitas" ou mesmo "boas".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>What</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T013121Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
         <seg>O que</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What are things you're worried about?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T173611Z" creationid="Sheila" creationdate="20190215T173611Z">
+        <seg>Com o que você está preocupado(a)?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1974,6 +2302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>While you're summoning the idea gods or getting writers' block, or anywhere in between, we'll be prompting you with questions to generate more topics.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T184458Z" creationid="Sheila" creationdate="20190215T184458Z">
+        <seg>Esteja você em paz com os deuses das ideias, com bloqueio de escritor, ou em qualquer lugar entre eles, vamos fazer algumas perguntas para ajudar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Who</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
@@ -2018,6 +2354,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
         <seg>Com a ajuda do grupo, escolha o tópico com o qual você está mais empolgado e acha que gostaria de desenvolver mais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordCamp Central has found that this isn't necessarily a good way to impart information.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T175652Z" creationid="Sheila" creationdate="20190215T175652Z">
+        <seg>O WordCamp Central descobriu que isso não é necessariamente uma boa forma de transmitir informações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2158,6 +2502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>[A lot of us have imposter syndrome because we don't see people like us presented as experts.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T173149Z" creationid="Sheila" creationdate="20190215T173149Z">
+        <seg>[Muitos de nós temos a síndrome do impostor porque não vemos pessoas como nós apresentadas como especialistas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>[Are you a person who identifies as a &lt;specific group&gt;?] Have you considered presenting at a WordCamp but thought you didn’t know enough or felt like an imposter?</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190121T174358Z" creationid="Sheila" creationdate="20190121T174358Z">
@@ -2258,6 +2610,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142815Z" creationid="Sheila" creationdate="20190215T142815Z">
         <seg>_(A pessoa instrutora pode segurar um tablet com contagem regressiva)_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>_Split the room into groups of 4-5 people._</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T180107Z" creationid="Sheila" creationdate="20190215T180107Z">
+        <seg>_Divida a sala em grupos de 4-5 pessoas._</seg>
       </tuv>
     </tu>
     <tu>
