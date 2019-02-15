@@ -104,8 +104,8 @@
       <tuv lang="EN">
         <seg>### Why are we holding a workshop for {specific group}</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T135814Z" creationid="Sheila" creationdate="20190215T135814Z">
-        <seg>### Por que estamos realizando uma oficina para {grupo específico}</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T145317Z" creationid="Sheila" creationdate="20190215T135814Z">
+        <seg>### Por que estamos fazendo uma oficina para {grupo específico}</seg>
       </tuv>
     </tu>
     <tu>
@@ -610,6 +610,38 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T132544Z" creationid="Sheila" creationdate="20190215T132544Z">
         <seg>**_***Você NÃO precisa ter experiência em falar em público.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T145330Z" creationid="Sheila" creationdate="20190215T145330Z">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T145407Z" creationid="Sheila" creationdate="20190215T145407Z">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T145412Z" creationid="Sheila" creationdate="20190215T145412Z">
+        <seg>3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A disproportionately large number of the speakers at WordPress meetups and WordCamps (and tech events in general) are one kind of person.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T145357Z" creationid="Sheila" creationdate="20190215T145357Z">
+        <seg>Um número desproporcionalmente grande de palestrantes em Meetups e WordCamps do WordPress (e eventos de tecnologia em geral) são do mesmo grupo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1174,6 +1206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Just as how a developer's point of view is different from a user's point of view, so are our viewpoints vs the standard speaker.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T172230Z" creationid="Sheila" creationdate="20190215T172230Z">
+        <seg>Assim como o ponto de vista de um desenvolvedor é diferente do ponto de vista de um usuário, as visões do nosso grupo são diferentes das do palestrante padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Just pick one to say to the rest of the group.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
@@ -1600,8 +1640,8 @@
       <tuv lang="EN">
         <seg>There are a few reasons that we want to hold this workshop for {specific group} today:</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T135822Z" creationid="Sheila" creationdate="20190215T135822Z">
-        <seg>Há algumas razões que nos motivam a realizar esta oficina para {grupo específico} hoje:</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T145329Z" creationid="Sheila" creationdate="20190215T135822Z">
+        <seg>Há algumas razões que nos motivam a fazer esta oficina para {grupo específico} hoje:</seg>
       </tuv>
     </tu>
     <tu>
