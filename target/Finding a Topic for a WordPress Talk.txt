@@ -1,0 +1,280 @@
+# Como escolher um tópico para uma apresentação sobre o WordPress [e promoção de diversidade entre palestrantes]
+
+Estamos acompanhando o número de grupos WP que farão oficinas este ano. Se você está planejando fazer uma, por favor, [avise-nos aqui](https://Make.WordPress.org/community/Handbook/Meetup-Organizer/Event-formats/Diversity-Speaker-Training-Workshop/) ou envie uma mensagem a @jillbinder no Slack. 
+
+## Descrição do Meetup
+
+_[Se você estiver apresentando isso a um grupo específico, como pessoas que se identificam como mulheres, há seções opcionais que podem ser adicionadas, indicadas entre [colchetes].]_ 
+
+Este é uma oficina para {grupo específico} {ou: pessoas} que estão pensando em falar em eventos do WordPress, como Meetups e WordCamps. Durante esta sessão prática, vamos observar o que impediu você de falar no passado e explorar como superar seus medos. Vamos discutir alguns mitos comuns sobre falar em público, formatos de conversa diferentes e focar em encontrar suas áreas de especialização (sim, você tem áreas de especialização!). Vamos fazer um apanhado de tópicos sobre os quais você pode falar em um WordCamp ou outro evento. 
+
+Cada participante sairá da oficina com uma ideia para apresnetar em um WordCamp ou Meetup, e com mais confiança para apresentá-la. 
+
+**_***Você NÃO precisa ter experiência em falar em público. Esta oficina é para todos os níveis de experiência._** **Esta oficina é para você se:**
+
+* [Você se identifica como {grupo específico}]
+* Você já pensou em falar em um Meetup ou WordCamp, mas não consegue pensar em um tópico
+* Você acha que não sabe de nada que valha a pena falar
+
+**Esta oficina NÃO é para você se:**
+
+* [Você se identifica como {grupo não específico}]
+* [Você não acha que importa que exista muito pouca gente {grupo específico} palestrando em eventos do WordPress]
+
+**Pauta**
+
+* Por que falar em eventos WordPress? [Por que precisamos de mais {grupo específico} falando neles?]
+* Como desfazer mitos sobre palestrantes/falar em público
+* Como levantar tópicos e escolher um
+* Como praticar fazendo uma palestra curta
+
+**Acessibilidade**
+
+* O local tem [elevadores, rampas, etc.], [banheiros com compartimentos separados para gêneros não-binários], [etc.].
+* Por favor, não use perfume. Muitas pessoas são alérgicas a eles.
+
+## Habilidades necessárias
+
+* Não se aplica
+
+## Objetivos
+
+* Ter várias idéias para tópicos sobre os quais você poderia falar
+* Compreender os fundamentos de um bom esboço.
+* Aplicar o que você aprendeu em seu próprio esboço.
+* Discutir os tipos de formatos de atividade diferentes.
+* Praticar a fala em público em um grupo pequeno para ajudar a criar confiança.
+* Identificar muitos dos medos que impedem você de falar em público.
+* [Declarar porque precisamos de mais diversidade entre nossos palestrantes.]
+
+## Recursos
+
+* [Material de trabalho (link para documento do Google)](https://drive.google.com/open?id=1SINx2PxKA1fiHOXSf_c_BVTFXRxoajFA) _(Você pode baixar e editar, se achar necessário.)_
+* [Slides (link para documento do Google doc)](https://drive.google.com/open?id=1I-BlIHsvP_zJgc6AAIOBt0xUgtUUI7Q3X_VnUSNoxH4) _(Todas as lições de treinamento de palestrantes estão incluídas. Você vai começar no topo e quando você chegar a um slide dizendo "qual será a próxima seção?", escolha a próxima lição que você fará neste dia. Você deverá baixar e fazer algumas edições porque há instruções para você nos próprios slides.) _
+* Um dispositivo grande de contagem regressiva para as apresentações cronometradas, como um tablet
+* Folha de presença, prancheta, caneta
+
+## Perguntas de seleção
+
+* [Você se identifica como {grupo específico}?]
+
+## Notas do facilitador
+
+* Este plano de aula pode ser executado isoladamente ou em conjunto com outros [planos de aula para palestrantes](https://make.wordpress.org/training/handbook/speaker-training/). Há seções que se repetem em cada um que só precisam ser cobertas uma vez.
+* Na maioria das sessões, o grupo deve se sentar em cadeiras em círculo, ou em pequenos grupos em torno de mesas.
+* Na última apresentação do dia, quando as pessoas estiverem apresentando seus tópicos, resumos ou rascunhos, dependendo de qual(is) lição(ões) que você estiver executando, altere o formato da sala para apresentações (assentos em linhas voltadas para o(a) palestrante)
+* Depois, usando uma folha de inscrição ou acompanhamento por e-mail, incentive-os a dar suas informações de contato para conversar mais a respeito de falar em um evento. Deixe claro que isso não é um compromisso, é apenas um acordo para conversar mais sobre o assunto.
+* Confira se o local é acessível (rampas, elevadores, etc.).
+* Peça às pessoas que escrevam seus pronomes em suas etiquetas/crachás. Etiquetas de cores diferentes podem ser úteis. [Um exemplo de como isso pode ser feito com facilidade](https://twitter.com/jillbinder/status/967601640365703168).
+* É útil ter um dispositivo grande para mostrar contagem regressiva nas apresentações de fala cronometrada. Uma solução seria um tablet.
+* É uma boa ideia avisar que as pessoas podem se levantar e andar sempre que quiserem, para aqueles que ficam impacientes quando estão parados.
+* [Ao organizar atividades para mulheres: não escolha um horário como 9 horas da noite. Ofereça a possibilidade de cuidar de crianças, se for possível.]
+* [Se estiver fazendo isso com foco em diversidade, é bom ter uma pessoa do grupo de foco específico para liderar a conversa. Preste atenção à linguagem, como pronomes de gênero e terminologia transgêneros.]
+* [Se você estiver executando um evento para um grupo específico, aqui estão as notas sobre o que fazer e não fazer: [https://make.wordpress.org/community/2014/09/12/how-to-run-a-minority-only-event/](https://make.wordpress.org/community/2014/09/12/how-to-run-a-minority-only-event/) ]
+
+## Oficina
+
+Você pode usar o banheiro a qualquer momento, levantar-se e andar um pouco sempre que quiser.
+
+### Apresentação do(s) facilitador(es)
+
+Os facilitadores se apresentam rapidamente.
+
+### Pauta
+
+A pauta que vamos cobrir hoje é:
+
+* Apresentações
+* [Por que estamos realizando uma oficina para]
+* O que procuramos
+* Como desfazer mitos sobre palestrantes
+* Por que você quer palestrar?
+* Formatos de atividades
+* Toró de ideias
+* Como reduzir sua seleção de tópicos
+* Como refinar o tópico escolhido
+* Como apresentar seu tópico
+
+_(Escolha a versão curta ou longa das apresentações, dependendo de quanto tempo tiver.)_ 
+
+### Apresentações [Versão longa - entrevista com o vizinho e jogo para quebrar o gelo]
+
+Vamos todos nos apresentar. Você tem 3 minutos. _(A pessoa instrutora pode ter que variar o tempo de acordo com o público e tempo disponível)_ Peça ao seu vizinho para responder a uma dessas perguntas. Então percorra a sala e cada pessoa terá 1 minuto para apresentar o seu vizinho com a sua resposta.
+
+* O que trouxe você ao WordPress?
+* Para qual país você mais gostaria de viajar?
+* Se fizesem um filme de sua vida, que ator ou atriz você gostaria que interpretasse você?
+* Se pudesse jantar com qualquer pessoa, viva ou morta, quem seria?
+* Qual é a sua forma favorita de perder tempo no trabalho, sem ser pego?
+* Qual foi a experiência mais impactante, de mudar a vida mesmo, você teve nos últimos cinco anos?
+* Diga uma coisa divertida que você fez esta semana.
+
+Agora você tem um minuto para apresentar o seu vizinho para o resto do grupo. _(A pessoa instrutora pode segurar um tablet com contagem regressiva)_ 
+
+### Apresentações [versão curta]
+
+Vamos todos nos apresentar. Ao redor do círculo, cada pessoa diz:
+
+* Seu nome
+* Seu pronome preferido
+* Sua experiência com WordPress
+* Qual é a sua experiência de falar em público, se houver?
+* O que você espera da oficina
+
+### Por que estamos realizando uma oficina para {grupo específico}
+
+Há algumas razões que nos motivam a realizar esta oficina para {grupo específico} hoje:
+
+1. A disproportionately large number of the speakers at WordPress meetups and WordCamps (and tech events in general) are one kind of person. Isso significa que os palestrantes não representam todas as pessoas da plateia. Portanto, {grupo específico} podem sentir que não pertencem ao espaço. Mas há muitas(os) {grupo específico} com conhecimentos amplos para compartilhar e todos podem se sentir incluídos.
+2. O WordPress é incrível e, por ser de código aberto, todos os tipos de pessoas podem usá-lo. Queremos uma representação mais justa dos usuários entre as pessoas que estão palestrando na comunidade.
+3. Uma das maneiras em que o WordPress está sendo moldado é pelas pessoas que falam sobre ele publicamente. Muitos(as) {grupo específico}, por terem tido experiências de vida diferentes, abordariam problemas de forma diferente. Just as how a developer's point of view is different from a user's point of view, so are our viewpoints vs the standard speaker. {grupo específico} têm experiências que não estão necessariamente sendo compartilhadas agora.
+4. By bringing in more diverse people, there's a better chance of bringing in folks who are straddling several roles and thus creating unique things with unique perspectives. Power users who use it in interesting ways, front-end developers, business people who use plugins to make specific kinds of sites, typographers who use WordPress to do crazy things with typography.... People to talk about running a business in WordPress, how developers can communicate with designers, different things you can do with WordPress...... etc. ]
+
+### What We Are Looking For
+
+Se você está fazendo esta oficina para recrutar palestrantes para um determinado WordCamp ou Meetup, este é um bom momento para explicar o que você está procurando, se precisa de palestrantes para falar sobre assuntos específicos ou para audiências específicas.
+
+### Dispelling The Myths (What We Think A Speaker Is vs What They Actually Are)
+
+Todo mundo tem suas próprias razões para não falar em público, especialmente em eventos de tecnologia, mas a maioria dessas razões são baseadas em mitos que podemos desfazer ou preocupações que podemos abordar:
+
+#### **Myth 1: I’m not an expert!** 
+
+Tudo bem, você não precisa ser especialista! Todo mundo tem uma ideia diferente do que significa "especialista". Ninguém sabe de tudo e todo mundo tem algo a aprender. Você só precisa saber mais sobre o seu tema do que o seu público. Você pode encontrar um tópico sobre o qual tenha conhecimento que seu público não tem. Há coisas que você faz com o WordPress o tempo todo que outras pessoas não fazem, o que torna você um(a) especialista aos olhos delas. Mesmo que seu público tenha conhecimento sobre o mesmo tema, eles não construíram esse conhecimento da mesma maneira, então ainda terão algo a aprender com você. There is a saying, "In the land of the blind, the one-eyed person is king" [or queen]. As long as you know a little bit more than many of the people in your audience, that's all you need. Você é provavelmente mais especialista do que pensa. Muitos de nós sofrem de síndrome de impostor. Este fenômeno psicológico faz com que você se sinta um(a) impostor(a), achando que não tem o conhecimento ou habilidades suficientes para estar aqui, mas conseguiu enganar a todos e logo eles vão descobrir. A síndrome do impostor é muito comum, você não está só. [A lot of us have imposter syndrome because we don't see people like us presented as experts. Many people in {our specific group} set a much higher bar for “expert” knowledge than other people do.] Many communities have surveyed their members to ask what kind of information they want to learn at meetups and WordCamps, and most people request beginner topics. Lembre-se de que há pessoas que não sabem nada sobre essas coisas e elas querem saber mais! Se você já usou o WordPress antes, tem conhecimento que outras pessoas querem que você compartilhe. Uma área em que você é sempre especialista é sua própria experiência. Os estudos de caso geram ótimas apresentações: fale sobre como você fez algo, como aprendeu algo, como superou um obstáculo, o processo pelo qual passou para criar algo ou para resolver um problema. Estes tipos de apresentações são excelentes, porque são únicas. Não são o tipo de informação que qualquer um pode encontrar em um tutorial online. Estes tópicos ajudar todos a superar a questão "Eu não sou um(a) especialista". Ver você, uma pessoa normal, compartilhar uma experiência normal, é valioso para as pessoas valorizarem sua própria experiência e perícia. Então você pode não achar que é especialista, mas você é! Se o seu tema é importante para você, sua ligação com ele vai ficar clara ao público, e é isso que vale.
+
+#### **Myth 2: People will ask questions I can’t answer, and I’ll look like a fool.** 
+
+Sim, as pessoas podem mesmo fazer perguntas que você não saiba responder, mas tudo bem! Seu público entende que nem todo mundo sabe tudo, e pode ser difícil ter as respostas na hora. O público simpatiza com essa situação. Se você não souber a resposta, há várias coisas que você pode fazer:
+
+* You can ask if anyone in the audience has the answer.
+* You can tell them you will look up the answer and get back to them. Diga que vai publicar a resposta em seu blog, assim você ainda ganha mais visitantes no seu site!
+* Sometimes people ask questions that are off topic – feel free to tell them their question is off-topic and you would be happy to discuss it with them later.
+* Also, remember that it’s okay to say, “I don’t know” – people will think more highly of you if you admit you don’t know than if you try to make up an answer.
+
+#### **Myth 3: I’m too nervous to speak!** 
+
+Seu público entende isso também, afinal, a maioria deles não tem coragem de falar.  Em primeiro lugar, pratique, pratique, pratique! The more you practice - in front of pets, family, friends, the mirror, small audiences - the less nervous you will be. Mas se ainda estiver nervoso(a), tudo bem! Todo mundo fica nervoso na frente do público, isso é apenas uma parte de ser humano. Tenha em mente que seu público está do seu lado, eles querem ver sua apresentação dar certo. Na verdade, não há problema em admitir que você está nervoso(a), as pessoas simpatizarão com isso. Eu também estou nervoso agora, mas estou aqui falando na sua frente e ainda não morri! Fazer uma brincadeira no começo sobre estar nervoso (como eu acabei de fazer) irá dissipar a energia nervosa na sala. Se você é muito nervoso(a), não comece falando em um evento de grande público. Comece em um encontro menor.
+
+#### **Myth 4: I have failed if everyone in the audience isn’t totally engaged**. 
+
+Às vezes, quando está palestrando, você olha para o público e parece que todo mundo está entediado. Tudo bem. Antes de tudo, a maioria deles provavelmente não está tão entediada quanto parece. O público geralmente fica com rostos neutros, então, se eles não estiverem sorrindo, acenando e aplaudindo, isso não significa que eles não estejam envolvidos. If they are using their phone/tablet/laptop/another device, that doesn’t mean they’re ignoring you - in fact, it might mean they are writing down your every word. E não importa se for um ótimo palestrante, você não se conectará com todos na plateia. That’s okay - no speaker can connect with everyone. Não leve para o lado pessoal e fique satisfeito com as pessoas que se conectam com você.
+
+#### **Myth 5: A talk followed by a Q&A is the only format I can use to share my knowledge.** 
+
+Não, há muitas outras maneiras de compartilhar seus conhecimentos em eventos do WordPress.  Você pode liderar uma discussão em grupo ou uma oficina, ou criar um painel de discussão. Some events offer the opportunity for lightning talks - this is a great format if you’re nervous because it’s okay to talk fast and it’s over quickly.
+
+**(optional) Questions for the group:** What do you think? What are things you're worried about? Por que você não falou em um encontro ou no WordCamp? If you've only talked once, why did you not do it again?
+
+### Why Do You Want To Speak?
+
+Uma pergunta para você: Por que você quer palestrar? Depois que as pessoas tiverem dado suas razões (ou se ninguém der motivos), leia esta lista:
+
+1. Ser visto como uma autoridade em sua área
+2. Compartilhar seu conhecimento com os outros
+3. Build your confidence
+4. Contribuir para a comunidade
+5. Meet people - be part of the community
+6. Viajar
+7. Learn at conferences - speaking teaches you more
+8. É divertido!
+9. Recompensador, dá um sentimento de realização
+10. Construção de carreira
+11. Be a role model for {my specific group}
+
+### Talk Formats
+
+Agora que falamos sobre o porquê de fazermos esta oficina para {grupo específico} [ou: que tipo de coisas estamos procurando], mitos sobre o que é preciso para ser palestrante e por que você quer palestrar, vamos falar sobre atividades reais. 
+
+A lot of talks are big "how to" brain dump sessions. "How to make a plugin" might be someone walking through how to make it, maybe even live coding, and then at the end, there are questions. 
+
+WordCamp Central has found that this isn't necessarily a good way to impart information. As pessoas saem dizendo que não lembram de nada do que aprenderam. 
+
+Existem outros formatos de atividades que promovem a aprendizagem baseada em histórias. Falar sobre como você aprendeu alguma coisa, pode indicar que outras pessoas também podem aprender. Além disso, formatos de atividades diferentes, envolvendo mais pessoas podem ser interessantes. 
+
+Aqui estão alguns formatos:
+
+* **How To:** The standard way that tech talks happen
+* **Discussion:** You are the facilitator on a topic and the audience discusses it together
+* **Panel:** Multiple people answer questions on the same topic
+* **Story-based:** This could be how you learned something, mistakes you made, or any other narrative format
+* **Case Study:** The story of how you created one thing, in particular
+* **Workshop:** A hands-on learning experience where people bring their laptops and create a thing as you go
+
+Uma palestra também pode ter mais de uma pessoa. Apresentações em duplas podem ser muito interessantes.
+
+### Big Brain Dump
+
+_Split the room into groups of 4-5 people._ 
+
+Now we are going to do exercises and you can ask for help in your groups. 
+
+Por favor, use o material de trabalho. Os próximos exercícios serão encontrados lá. 
+
+First we are going to help you answer the question, "I don't know what to talk about" or "I don't know enough about anything to give a talk." 
+
+Vamos fazer um exercício de toró de ideias. Pense em várias ideias de tópicos em 15 minutos. We're not looking for "perfect" or even "good" ideas. Vamos apenas tirá-las da cabeça, sejam boas, ruins ou feias. Veja se você consegue 30 ou 40 ideias. Sério, qualquer coisa que vier na cabeça. 
+
+Você pode escrever, desenhar, fazer mapas mentais, listar qualquer formato que desejar. While you're summoning the idea gods or getting writers' block, or anywhere in between, we'll be prompting you with questions to generate more topics. 
+
+Remember, it's always great to talk about what excites YOU - not what you think you should talk about. 
+
+_(These prompts are only suggestions that you can adapt according to the group's traits and needs.)_
+
+* O que trouxe você ao WordPress?
+* What keeps you in it?
+* What do you love about it?
+* What do you want to learn next?
+* First time you: child theme, wrote plugin, etc.
+* Biggest challenge in WordPress in the last year or two
+* The last thing that you learned? Como você aprendeu isso?
+* Biggest block you’ve ever had with WordPress? Como você o superou?
+* What are you most passionate about when it comes to WordPress? O que mais empolga você?
+* What sorts of things do you love sharing with others about WP?
+* What question about WordPress do you get asked about most by clients, friends, and family?
+* A list of what you want to learn
+* Favorite plugin?
+* A cool thing you've created?
+* Favorite resources?
+* Cool tricks you use all the time?
+* What could you talk about without slides?
+* What prompt did we not ask which you wish we did?
+
+### Topic Selection
+
+Ok, agora você tem algumas ideias boas, ruins e feias. Out of that list, pick the two topics from your list that you think best fits the following questions. You can use your group to help you when you get stuck.
+
+1. Escolha dois tópicos sobre os quais você não sabe muito, mas teve algum sucesso. (por exemplo, eu não sei muito sobre como fazer plugins, mas fiz um para tipos de postagem personalizados). Você pode usá-los para fazer uma apresentação em forma de história.
+2. Escolha dois tópicos sobre os quais você talvez não saiba muito, mas que poderia fazer boas perguntas a respeito. Isso pode servir para moderar um painel.
+3. Escolha dois tópicos sobre os quais você tem confiança e que pode levar a uma apresentação de como fazer.
+4. Escolha dois tópicos com os quais você trabalhou e que poderia fazer um estudo de caso.
+5. Escolha dois assuntos na lista de tópicos que são seus favoritos.
+6. Escolha dois tópicos que você acha que poderia ensinar aos outros de uma maneira prática. Isso pode virar uma oficina.
+
+Com a ajuda do grupo, escolha o tópico com o qual você está mais empolgado e acha que gostaria de desenvolver mais. Se está com problemas para decidir, tudo bem. Só escolha um para contar ao resto do grupo.
+
+### **Refining Topic**
+
+Para refinar ainda mais o seu tópico, faça perguntas começando por “Quem, O quê, Por que, Como, Quando, Onde”. Por exemplo: Se você tem um plugin favorito, pode tentar perguntar: para quem é este plugin? O que esse plugin faz? Por que este plugin foi criado? Como funciona? Quando você usaria isso? Onde você usaria isso?
+
+1. Quem
+2. O que
+3. Por que
+4. Como
+5. Quando
+6. Onde
+
+A partir disso, você pode refinar seu tópico? Há algum tópico mais específico sobre o qual você gostaria de dar a palestra?
+
+### Present Topic
+
+_(If you are running several speaker training lessons together, regroup the room into a circle. If it's only one module and this is the last exercise, change the seats into a presentation style format. Chairs all facing the same direction—to the front, where a person will stand to talk.)_ 
+
+Now we are going to go around the circle (or go around the room) and give everyone the opportunity to say what topic they chose. If you'd rather not, you may say, "Pass." 
+
+_Teacher Note: If someone seems really doubtful about their topic, ask the group if they would like to hear this topic, put up their hands.  If time allows, offer to let students talk for a minute or two about their topic._
+
+### Sign Up
+
+_Do this conclusion once per workshop lessons meetup_ 
+
+Obrigado por sua participação hoje. Vamos passar uma folha de inscrição (ou você receberá um e-mail). Se você estiver interessado em falar em um evento, inscreva-se para nos informar. Este não é um compromisso, mas entraremos em contato com você para discutir a possibilidade de falar em um próximo Meetup ou WordCamp.
