@@ -6,10 +6,410 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg># Finding a Topic for a WordPress Talk [and Diversity Speaker Outreach]</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142216Z" creationid="Sheila" creationdate="20190215T012800Z">
+        <seg>XXXComo escolher um tópico para uma palestra sobre o WordPress [e promoção de diversidade entre palestrantes]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>## Assets</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140107Z" creationid="Sheila" creationdate="20190215T140107Z">
+        <seg>## Recursos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>## Meetup Description</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T125524Z" creationid="Sheila" creationdate="20190215T125524Z">
+        <seg>## Descrição do Meetup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>## Objectives</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140014Z" creationid="Sheila" creationdate="20190215T140014Z">
+        <seg>## Objetivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>## Prerequisite Skills</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140003Z" creationid="Sheila" creationdate="20190215T140003Z">
+        <seg>## Habilidades necessárias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>## Screening Questions</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140539Z" creationid="Sheila" creationdate="20190215T140539Z">
+        <seg>## Perguntas de seleção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>## Teacher Notes</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140549Z" creationid="Sheila" creationdate="20190215T140549Z">
+        <seg>## Notas do facilitador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>## Workshop</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T141121Z" creationid="Sheila" creationdate="20190215T141121Z">
+        <seg>## Oficina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>### Introduce Facilitator(s)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T141132Z" creationid="Sheila" creationdate="20190215T141132Z">
+        <seg>### Introduce Facilitator(s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>### Why are we holding a workshop for {specific group}</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T135814Z" creationid="Sheila" creationdate="20190215T135814Z">
+        <seg>### Por que estamos realizando uma oficina para {grupo específico}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(e.g. I don’t know much about making plugins but I’ve made one for custom post types).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>(por exemplo, eu não sei muito sobre como fazer plugins, mas fiz um para tipos de postagem personalizados).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* A large device that can show a countdown timer for the timed speaking presentations, such as an iPad</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140523Z" creationid="Sheila" creationdate="20190215T140523Z">
+        <seg>* Um dispositivo grande de contagem regressiva para as apresentações cronometradas, como um tablet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* After, encourage them via a sign-up sheet or follow up email to give their contact information to agree to chat further about speaking at an event.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140845Z" creationid="Sheila" creationdate="20190215T140845Z">
+        <seg>* Depois, usando uma folha de inscrição ou acompanhamento por e-mail, incentive-os a dar suas informações de contato para conversar mais a respeito de falar em um evento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Apply what you have learned to your own outline.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140033Z" creationid="Sheila" creationdate="20190215T140033Z">
+        <seg>* Aplicar o que você aprendeu em seu próprio esboço.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Ask people to write their pronouns on their nametags.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140912Z" creationid="Sheila" creationdate="20190215T140912Z">
+        <seg>* Peça às pessoas que escrevam seus pronomes em suas etiquetas/crachás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* At the last presentation of the day, when they are presenting their topics, pitches, or outlines depending on which lesson(s) you are running, change the room to presentation format (seats in rows facing forward toward the speaker)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140837Z" creationid="Sheila" creationdate="20190215T140837Z">
+        <seg>* Na última apresentação do dia, quando as pessoas estiverem apresentando seus tópicos, resumos ou rascunhos, dependendo de qual(is) lição(ões) que você estiver executando, altere o formato da sala para apresentações (assentos em linhas voltadas para o(a) palestrante)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Coming up with topics and choosing one</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T135731Z" creationid="Sheila" creationdate="20190215T135731Z">
+        <seg>* Como levantar tópicos e escolher um</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Dispelling some myths about speakers/speaking</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T135715Z" creationid="Sheila" creationdate="20190215T135715Z">
+        <seg>* Como desfazer mitos sobre palestrantes/falar em público</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Have several ideas for topics you could speak about</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140021Z" creationid="Sheila" creationdate="20190215T140021Z">
+        <seg>* Ter várias idéias para tópicos sobre os quais você poderia falar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Have the group sit in chairs in a circle, or in small groups around tables for most of the sessions.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140644Z" creationid="Sheila" creationdate="20190215T140644Z">
+        <seg>* Na maioria das sessões, o grupo deve se sentar em cadeiras em círculo, ou em pequenos grupos em torno de mesas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Identify many of the fears that have stopped you from public speaking.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140055Z" creationid="Sheila" creationdate="20190215T140055Z">
+        <seg>* Identificar muitos dos medos que impedem você de falar em público.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* It is useful to have a large device that can show a countdown timer for the timed speaking presentations.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140955Z" creationid="Sheila" creationdate="20190215T140955Z">
+        <seg>* É útil ter um dispositivo grande para mostrar contagem regressiva nas apresentações de fala cronometrada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Make sure the venue is accessible (ramps, elevators, etc.)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140853Z" creationid="Sheila" creationdate="20190215T140853Z">
+        <seg>* Confira se o local é acessível (rampas, elevadores, etc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* N/A</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140009Z" creationid="Sheila" creationdate="20190215T140009Z">
+        <seg>* Não se aplica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Please do not wear scents.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T135955Z" creationid="Sheila" creationdate="20190215T135955Z">
+        <seg>* Por favor, não use perfume.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Practice giving a short talk</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T135938Z" creationid="Sheila" creationdate="20190215T135938Z">
+        <seg>* Como praticar fazendo uma palestra curta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Practice public speaking in front of a small group to help build confidence.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140050Z" creationid="Sheila" creationdate="20190215T140050Z">
+        <seg>* Praticar a fala em público em um grupo pequeno para ajudar a criar confiança.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Recall the different types of talk formats.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140043Z" creationid="Sheila" creationdate="20190215T140043Z">
+        <seg>* Discutir os tipos de formatos de atividade diferentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Recognize the basics of a good outline.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140025Z" creationid="Sheila" creationdate="20190215T140025Z">
+        <seg>* Compreender os fundamentos de um bom esboço.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Sign up sheet, clipboard, pen</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140532Z" creationid="Sheila" creationdate="20190215T140532Z">
+        <seg>* Folha de presença, prancheta, caneta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* The note about getting up and moving around whenever they want to is for accessibility for those who get antsy in their bodies.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T141006Z" creationid="Sheila" creationdate="20190215T141006Z">
+        <seg>* É uma boa ideia avisar que as pessoas podem se levantar e andar sempre que quiserem, para aqueles que ficam impacientes quando estão parados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* The venue has [elevators, ramps, etc.], [single stall washrooms for non-binary genders], [etc.].</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T135951Z" creationid="Sheila" creationdate="20190215T135951Z">
+        <seg>* O local tem [elevadores, rampas, etc.], [banheiros com compartimentos separados para gêneros não-binários], [etc.].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* This lesson plan can be run alone or together with several other [Speaker lesson plans](https://make.wordpress.org/training/handbook/speaker-training/).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140628Z" creationid="Sheila" creationdate="20190215T140628Z">
+        <seg>* Este plano de aula pode ser executado isoladamente ou em conjunto com outros [planos de aula para palestrantes](https://make.wordpress.org/training/handbook/speaker-training/).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Why speak at WordPress events?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T135644Z" creationid="Sheila" creationdate="20190215T135644Z">
+        <seg>* Por que falar em eventos WordPress?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* You think you don't know anything worth speaking about</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T132646Z" creationid="Sheila" creationdate="20190215T132646Z">
+        <seg>* Você acha que não sabe de nada que valha a pena falar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* You’ve thought about speaking at Meetup or WordCamp but haven’t been able to think of a topic</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T132637Z" creationid="Sheila" creationdate="20190215T132637Z">
+        <seg>* Você já pensou em falar em um Meetup ou WordCamp, mas não consegue pensar em um tópico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* [Do you identify as {specific group}?]</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T135756Z" creationid="Sheila" creationdate="20190215T135756Z">
+        <seg>* [Você se identifica como {grupo específico}?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* [If holding the group for women: Don’t hold it at 9pm at night.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T141014Z" creationid="Sheila" creationdate="20190215T141014Z">
+        <seg>* [Ao organizar atividades para mulheres: não escolha um horário como 9 horas da noite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* [If you are running an event for a specific group, here are notes on dos and don’ts you will want to read: [https://make.wordpress.org/community/2014/09/12/how-to-run-a-minority-only-event/](https://make.wordpress.org/community/2014/09/12/how-to-run-a-minority-only-event/) ]</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T141114Z" creationid="Sheila" creationdate="20190215T141114Z">
+        <seg>* [Se você estiver executando um evento para um grupo específico, aqui estão as notas sobre o que fazer e não fazer: [https://make.wordpress.org/community/2014/09/12/how-to-run-a-minority-only-event/](https://make.wordpress.org/community/2014/09/12/how-to-run-a-minority-only-event/) ]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* [If you’re doing this for diversity purposes, have a person from that specific group lead the talk.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T141026Z" creationid="Sheila" creationdate="20190215T141026Z">
+        <seg>* [Se estiver fazendo isso com foco em diversidade, é bom ter uma pessoa do grupo de foco específico para liderar a conversa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* [Slides (link to Google doc)](https://drive.google.com/open?id=1I-BlIHsvP_zJgc6AAIOBt0xUgtUUI7Q3X_VnUSNoxH4) _(All of the Speaker Training lessons are included.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140307Z" creationid="Sheila" creationdate="20190215T140213Z">
+        <seg>* [Slides (link para documento do Google doc)](https://drive.google.com/open?id=1I-BlIHsvP_zJgc6AAIOBt0xUgtUUI7Q3X_VnUSNoxH4) _(Todas as lições de treinamento de palestrantes estão incluídas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* [State why we need more diversity in our public speakers.]</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140101Z" creationid="Sheila" creationdate="20190215T140101Z">
+        <seg>* [Declarar porque precisamos de mais diversidade entre nossos palestrantes.]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* [Workbook (link to Google doc)](https://drive.google.com/open?id=1SINx2PxKA1fiHOXSf_c_BVTFXRxoajFA) _(You may download and edit as needed.)_</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140243Z" creationid="Sheila" creationdate="20190215T140202Z">
+        <seg>* [Material de trabalho (link para documento do Google)](https://drive.google.com/open?id=1SINx2PxKA1fiHOXSf_c_BVTFXRxoajFA) _(Você pode baixar e editar, se achar necessário.)_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* [You don’t think it matters that there are very few {specific group} speakers at WordPress events]</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T135616Z" creationid="Sheila" creationdate="20190215T135219Z">
+        <seg>* [Você não acha que importa que exista muito pouca gente {grupo específico} palestrando em eventos do WordPress]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* [You identify as {not specific group}]</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T132707Z" creationid="Sheila" creationdate="20190215T132707Z">
+        <seg>* [Você se identifica como {grupo não específico}]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* [You identify as {specific group}]</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T132622Z" creationid="Sheila" creationdate="20190215T132622Z">
+        <seg>* [Você se identifica como {grupo específico}]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>***You do NOT have to have any experience in public speaking.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T162638Z" creationid="Sheila" creationdate="20190210T162638Z">
         <seg>***Você NÃO precisa ter experiência em falar em público.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>**Accessibility**</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T135943Z" creationid="Sheila" creationdate="20190215T135943Z">
+        <seg>**Acessibilidade**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>**Agenda**</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T135640Z" creationid="Sheila" creationdate="20190215T135640Z">
+        <seg>**Pauta**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>**This workshop is NOT for you if:**</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T132654Z" creationid="Sheila" creationdate="20190215T132654Z">
+        <seg>**Esta oficina NÃO é para você se:**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>**_***You do NOT have to have any experience in public speaking.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T132544Z" creationid="Sheila" creationdate="20190215T132544Z">
+        <seg>**_***Você NÃO precisa ter experiência em falar em público.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22,10 +422,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A lot of us suffer from Imposter Syndrome.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T010740Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Muitos de nós sofrem de síndrome de impostor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A question for you: Why do you want to speak?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011432Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Uma pergunta para você: Por que você quer palestrar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A talk can also be more than one person.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011543Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Uma palestra também pode ter mais de uma pessoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Accessibility</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T163103Z" creationid="Sheila" creationdate="20190210T163103Z">
         <seg>Acessibilidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After people have given their reasons (or if no one gives reasons), read off this list:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Depois que as pessoas tiverem dado suas razões (ou se ninguém der motivos), leia esta lista:</seg>
       </tuv>
     </tu>
     <tu>
@@ -46,10 +478,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An iPad would work.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190212T124509Z" creationid="Sheila" creationdate="20190212T124501Z">
+        <seg>Uma solução seria um tablet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>And no matter how good a speaker you are, you will not connect with everyone in the audience.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T014033Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>E não importa se for um ótimo palestrante, você não se conectará com todos na plateia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Apply what you have learned to your own outline.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T192930Z" creationid="Sheila" creationdate="20190210T192930Z">
         <seg>Aplicar o que você aprendeu em seu próprio esboço.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As well, different talk formats involving more people becomes more engaging.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011528Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Além disso, formatos de atividades diferentes, envolvendo mais pessoas podem ser interessantes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70,10 +526,66 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Audiences generally sit with neutral faces, so if they aren’t smiling and nodding and cheering, that doesn’t mean they aren’t engaged.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>O público geralmente fica com rostos neutros, então, se eles não estiverem sorrindo, acenando e aplaudindo, isso não significa que eles não estejam envolvidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Be seen as an authority in your field</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011437Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Ser visto como uma autoridade em sua área</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Becoming a Better Speaker</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190121T174102Z" creationid="Sheila" creationdate="20190121T174102Z">
         <seg>Como se tornar um orador melhor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Brainstorm as many topic ideas as you can in 15 minutes.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Pense em várias ideias de tópicos em 15 minutos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But if you are still nervous, that’s okay!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011123Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Mas se ainda estiver nervoso(a), tudo bem!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But there are many {specific group} with a wide range of knowledge to share and everyone can feel included.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T135840Z" creationid="Sheila" creationdate="20190215T135840Z">
+        <seg>Mas há muitas(os) {grupo específico} com conhecimentos amplos para compartilhar e todos podem se sentir incluídos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Career building</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011500Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Construção de carreira</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Case studies make great talks – talk about how you did something, how you learned something, how you overcame an obstacle, the process you went through to create something or to solve a problem.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T010954Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Os estudos de caso geram ótimas apresentações: fale sobre como você fez algo, como aprendeu algo, como superou um obstáculo, o processo pelo qual passou para criar algo ou para resolver um problema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -110,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Different color tags can also be helpful.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140927Z" creationid="Sheila" creationdate="20190215T140927Z">
+        <seg>Etiquetas de cores diferentes podem ser úteis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dispelling some myths about speakers/speaking</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T163024Z" creationid="Sheila" creationdate="20190210T162932Z">
@@ -134,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Duo talks are really engaging.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Apresentações em duplas podem ser muito interessantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>During this hands-on session, we’ll look at what has stopped you from speaking in the past — and explore how to move past your fears.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190207T184124Z" creationid="Sheila" creationdate="20190207T184124Z">
@@ -146,6 +674,62 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T162617Z" creationid="Sheila" creationdate="20190210T162617Z">
         <seg>Cada participante sairá da oficina com uma ideia para apresnetar em um WordCamp ou Meetup, e com mais confiança para apresentá-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Emphasize that this isn’t a commitment, it’s an agreement to have further conversation about it.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T013446Z" creationid="Sheila" creationdate="20190212T124400Z">
+        <seg>Deixe claro que isso não é um compromisso, é apenas um acordo para conversar mais sobre o assunto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Even if your audience has knowledge about the same topic, they will not frame that knowledge the same way – they will still have something to learn from you.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T010721Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Mesmo que seu público tenha conhecimento sobre o mesmo tema, eles não construíram esse conhecimento da mesma maneira, então ainda terão algo a aprender com você.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Everyone gets nervous in front of audiences, and that’s just a part of being human.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011127Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Todo mundo fica nervoso na frente do público, isso é apenas uma parte de ser humano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Everyone has a different idea of what “expert” means.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Todo mundo tem uma ideia diferente do que significa "especialista".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Everyone has their own reasons for not speaking in public, especially at tech events, but most of those reasons are based on myths that we can dispel or concerns that we can address:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T010631Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Todo mundo tem suas próprias razões para não falar em público, especialmente em eventos de tecnologia, mas a maioria dessas razões são baseadas em mitos que podemos desfazer ou preocupações que podemos abordar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Expect that, don’t take it personally, and be happy with the people who do connect with you.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011357Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Não leve para o lado pessoal e fique satisfeito com as pessoas que se conectam com você.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Facilitators say a few words about themselves.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190212T145251Z" creationid="Sheila" creationdate="20190212T145212Z">
+        <seg>Os facilitadores se apresentam rapidamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -166,6 +750,54 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>First of all, most of them probably aren’t as bored as they look.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011339Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Antes de tudo, a maioria deles provavelmente não está tão entediada quanto parece.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>First of all, practice practice practice!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011113Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Em primeiro lugar, pratique, pratique, pratique!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example: If you have a favorite plugin, you can try asking who is this plugin for?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Por exemplo: Se você tem um plugin favorito, pode tentar perguntar: para quem é este plugin?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From this list, can you refine your topic?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T013153Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>A partir disso, você pode refinar seu tópico?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Give back to the community</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011447Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Contribuir para a comunidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Going around the circle, each person say:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190212T173911Z" creationid="Sheila" creationdate="20190212T173911Z">
+        <seg>Ao redor do círculo, cada pessoa diz:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Have several ideas for topics you could speak about</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T192729Z" creationid="Sheila" creationdate="20190210T192729Z">
@@ -182,10 +814,114 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here are some of the various formats:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011530Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Aqui estão alguns formatos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T013148Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Como</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How did you learn it?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Como você aprendeu isso?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How did you overcome the biggest block?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Como você o superou?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How does it work?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Como funciona?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Identify many of the fears that have stopped you from public speaking.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T193047Z" creationid="Sheila" creationdate="20190210T193019Z">
         <seg>Identificar muitos dos medos que impedem você de falar em público.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are giving this workshop to recruit speakers for a particular WordCamp or meetup, this is a good time to explain what you are looking for if you need speakers to speak on particular subjects or to particular audiences.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T013846Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Se você está fazendo esta oficina para recrutar palestrantes para um determinado WordCamp ou Meetup, este é um bom momento para explicar o que você está procurando, se precisa de palestrantes para falar sobre assuntos específicos ou para audiências específicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are interested in speaking at an event, please sign up to let us know.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Se você estiver interessado em falar em um evento, inscreva-se para nos informar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you care about your topic, that will shine through and that’s what’s important.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011025Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Se o seu tema é importante para você, sua ligação com ele vai ficar clara ao público, e é isso que vale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you don’t know the answer, there are several things you can do:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Se você não souber a resposta, há várias coisas que você pode fazer:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have used WordPress before, you have knowledge that other people want you to share.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T010932Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Se você já usou o WordPress antes, tem conhecimento que outras pessoas querem que você compartilhe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you're planning on running it, please either [let us know here](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/diversity-speaker-training-workshop/) or message @jillbinder on Slack.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T125511Z" creationid="Sheila" creationdate="20190215T125231Z">
+        <seg>Se você está planejando fazer uma, por favor, [avise-nos aqui](https://Make.WordPress.org/community/Handbook/Meetup-Organizer/Event-formats/Diversity-Speaker-Training-Workshop/) ou envie uma mensagem a @jillbinder no Slack.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you’re having trouble deciding, it’s ok.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Se está com problemas para decidir, tudo bem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you’re really nervous, don’t start by speaking at an event where you will have a big audience.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011320Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Se você é muito nervoso(a), não comece falando em um evento de grande público.</seg>
       </tuv>
     </tu>
     <tu>
@@ -198,10 +934,74 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Imposter syndrome is really common – you aren’t alone.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>A síndrome do impostor é muito comum, você não está só.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In fact, it’s okay to admit that you are nervous – people will be sympathetic.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011131Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Na verdade, não há problema em admitir que você está nervoso(a), as pessoas simpatizarão com isso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Is there something more specific on which you’d like to give the talk?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T014308Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Há algum tópico mais específico sobre o qual você gostaria de dar a palestra?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It’s fun!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011455Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>É divertido!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I’m nervous right now, too, but I’m up here speaking in front of you and I haven’t died yet!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011146Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Eu também estou nervoso agora, mas estou aqui falando na sua frente e ainda não morri!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Just pick one to say to the rest of the group.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Só escolha um para contar ao resto do grupo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep in mind that your audience is on your side – they want to see you succeed.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011129Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Tenha em mente que seu público está do seu lado, eles querem ver sua apresentação dar certo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Lessons in this module include:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190121T173912Z" creationid="Sheila" creationdate="20190121T173912Z">
         <seg>As lições neste módulo incluem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Making a little joke at the beginning about being nervous (like I just did) will dispel the nervous energy in the room.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Fazer uma brincadeira no começo sobre estar nervoso (como eu acabei de fazer) irá dissipar a energia nervosa na sala.</seg>
       </tuv>
     </tu>
     <tu>
@@ -214,10 +1014,50 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Many {specific group}, by nature of having had different life experiences, would approach problems differently.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T135852Z" creationid="Sheila" creationdate="20190215T135852Z">
+        <seg>Muitos(as) {grupo específico}, por terem tido experiências de vida diferentes, abordariam problemas de forma diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>N/A</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T163226Z" creationid="Sheila" creationdate="20190210T163226Z">
         <seg>Não se aplica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No one knows everything, and everyone has something to learn.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Ninguém sabe de tudo e todo mundo tem algo a aprender.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No, there are plenty of other ways to share your expertise at WordPress events.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Não, há muitas outras maneiras de compartilhar seus conhecimentos em eventos do WordPress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now that we've talked about why we are holding this workshop for {specific group} [or: what kind of things we're looking for], myths about what it takes to be a speaker, and why you want to speak, let's start talking about the actual talks.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T135913Z" creationid="Sheila" creationdate="20190215T135913Z">
+        <seg>Agora que falamos sobre o porquê de fazermos esta oficina para {grupo específico} [ou: que tipo de coisas estamos procurando], mitos sobre o que é preciso para ser palestrante e por que você quer palestrar, vamos falar sobre atividades reais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now you have one minute to introduce your neighbor to the rest of the group.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190212T215641Z" creationid="Sheila" creationdate="20190212T215641Z">
+        <seg>Agora você tem um minuto para apresentar o seu vizinho para o resto do grupo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -230,10 +1070,106 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Offer childcare if you can.]</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T013500Z" creationid="Sheila" creationdate="20190212T124732Z">
+        <seg>Ofereça a possibilidade de cuidar de crianças, se for possível.]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Okay, now you’ve got some good, bad and ugly ideas.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Ok, agora você tem algumas ideias boas, ruins e feias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One area where you are always an expert is your own experience.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T010935Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Uma área em que você é sempre especialista é sua própria experiência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One of the ways in which WordPress is being shaped is by the people who speak about it publicly.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190212T220108Z" creationid="Sheila" creationdate="20190212T220108Z">
+        <seg>Uma das maneiras em que o WordPress está sendo moldado é pelas pessoas que falam sobre ele publicamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>People often walk away feeling overwhelmed and not remembering anything that they learned.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011520Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>As pessoas saem dizendo que não lembram de nada do que aprenderam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pick 2 subjects in the topic list that are your favorite.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Escolha dois assuntos na lista de tópicos que são seus favoritos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pick 2 topics that you are confident about and could lead a how-to presentation.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Escolha dois tópicos sobre os quais você tem confiança e que pode levar a uma apresentação de como fazer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pick 2 topics that you don’t know a lot about, but have had some success with.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Escolha dois tópicos sobre os quais você não sabe muito, mas teve algum sucesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pick 2 topics that you think you could teach to others in a hands-on manner.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Escolha dois tópicos que você acha que poderia ensinar aos outros de uma maneira prática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pick 2 topics that you’ve successfully worked on that you feel you could do a case study about.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Escolha dois tópicos com os quais você trabalhou e que poderia fazer um estudo de caso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pick 2 topics you may not know much about but that you would have good questions for.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Escolha dois tópicos sobre os quais você talvez não saiba muito, mas que poderia fazer boas perguntas a respeito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please do not wear scents.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T163147Z" creationid="Sheila" creationdate="20190210T163147Z">
         <seg>Por favor, não use perfume.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please pull out your workbooks.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140331Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Por favor, use o material de trabalho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -278,10 +1214,50 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remember that there are people out there who know nothing about any of this stuff, and they want to know more!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T010929Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Lembre-se de que há pessoas que não sabem nada sobre essas coisas e elas querem saber mais!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rewarding, feeling of accomplishment</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011458Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Recompensador, dá um sentimento de realização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Screening Questions #Screening Questions</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190211T003642Z" creationid="Sheila" creationdate="20190211T003642Z">
         <seg>Perguntas de seleção #Perguntas de seleção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See if you can get 30 or 40 ideas.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Veja se você consegue 30 ou 40 ideias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Seriously, anything that comes to mind.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Sério, qualquer coisa que vier na cabeça.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Share your knowledge with others</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011439Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Compartilhar seu conhecimento com os outros</seg>
       </tuv>
     </tu>
     <tu>
@@ -294,10 +1270,106 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So you might not feel like an expert, but you are!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011016Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Então você pode não achar que é especialista, mas você é!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sometimes when you’re speaking, you will look out at the audience and it will look like everyone is bored.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011335Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Às vezes, quando está palestrando, você olha para o público e parece que todo mundo está entediado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start at a smaller meetup.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Comece em um encontro menor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Talking about how you learned something, for example, means other people can also learn how to learn.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011526Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Falar sobre como você aprendeu alguma coisa, pode indicar que outras pessoas também podem aprender.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Teacher Notes #Teacher Notes</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190211T003714Z" creationid="Sheila" creationdate="20190211T003714Z">
         <seg>Notas do facilitador #Notas do facilitador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tell them you’ll post the answer on your blog – then you get more visitors to your website!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011050Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Diga que vai publicar a resposta em seu blog, assim você ainda ganha mais visitantes no seu site!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thank you for attending today.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T013214Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Obrigado por sua participação hoje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That means that the speakers do not represent everyone sitting in the audience.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190212T215854Z" creationid="Sheila" creationdate="20190212T215854Z">
+        <seg>Isso significa que os palestrantes não representam todas as pessoas da plateia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That’s okay, you don’t have to be an expert!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T010638Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Tudo bem, você não precisa ser especialista!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That’s okay.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Tudo bem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The agenda that we are going to cover today is:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190212T145309Z" creationid="Sheila" creationdate="20190212T145309Z">
+        <seg>A pauta que vamos cobrir hoje é:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The idea is just to get them out, good, bad, or ugly.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Vamos apenas tirá-las da cabeça, sejam boas, ruins ou feias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The next few exercises will be found there.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Os próximos exercícios serão encontrados lá.</seg>
       </tuv>
     </tu>
     <tu>
@@ -310,6 +1382,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then we will go around the room and each person will have 1 minute to introduce their neighbor with their answer.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190212T215433Z" creationid="Sheila" creationdate="20190212T215433Z">
+        <seg>Então percorra a sala e cada pessoa terá 1 minuto para apresentar o seu vizinho com a sua resposta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are a few reasons that we want to hold this workshop for {specific group} today:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T135822Z" creationid="Sheila" creationdate="20190215T135822Z">
+        <seg>Há algumas razões que nos motivam a realizar esta oficina para {grupo específico} hoje:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are other talk formats that promote story-based learning.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011525Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Existem outros formatos de atividades que promovem a aprendizagem baseada em histórias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are sections that repeat in each which only need to be covered once.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190211T003740Z" creationid="Sheila" creationdate="20190211T003740Z">
@@ -318,10 +1414,82 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are things you do with WordPress all the time that other people do not do with WordPress all the time – that makes you an expert in their eyes.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T010715Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Há coisas que você faz com o WordPress o tempo todo que outras pessoas não fazem, o que torna você um(a) especialista aos olhos delas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These kinds of talks are great because they are unique – not just the same information that anyone can find in an online tutorial.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011003Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Estes tipos de apresentações são excelentes, porque são únicas. Não são o tipo de informação que qualquer um pode encontrar em um tutorial online.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These topics help everyone overcome the “I’m not an expert” problem – you’re a normal person sharing a normal experience, and that’s valuable, so people will come to value their own experience and expertise.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011011Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Estes tópicos ajudar todos a superar a questão "Eu não sou um(a) especialista". Ver você, uma pessoa normal, compartilhar uma experiência normal, é valioso para as pessoas valorizarem sua própria experiência e perícia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This could be a story-based talk.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Você pode usá-los para fazer uma apresentação em forma de história.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This could be for moderating a panel.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Isso pode servir para moderar um painel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This could be for running a workshop.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Isso pode virar uma oficina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a workshop for {specific group} {or: folks} who are thinking about speaking at WordPress events, such as WordPress Meetup and WordCamp.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T132459Z" creationid="Sheila" creationdate="20190215T132459Z">
+        <seg>Este é uma oficina para {grupo específico} {ou: pessoas} que estão pensando em falar em eventos do WordPress, como Meetups e WordCamps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is not a commitment, but we will get in touch with you to discuss the possibility of speaking at an upcoming meetup or WordCamp.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T013218Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Este não é um compromisso, mas entraremos em contato com você para discutir a possibilidade de falar em um próximo Meetup ou WordCamp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This lesson plan can be run alone or together with several other Speaker lesson plans.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190211T003730Z" creationid="Sheila" creationdate="20190211T003730Z">
         <seg>Este plano de aula pode ser executado sozinho ou em conjunto com vários outros planos de aula de palestrante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This psychological phenomenon where you feel like you are an imposter, you think you don’t really have the knowledge or skills to be here, but you have managed to fool everyone and soon they’ll find out.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T010743Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Este fenômeno psicológico faz com que você se sinta um(a) impostor(a), achando que não tem o conhecimento ou habilidades suficientes para estar aqui, mas conseguiu enganar a todos e logo eles vão descobrir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -342,10 +1510,74 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This workshop is for all levels of experience._** **This workshop is for you if:**</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T132601Z" creationid="Sheila" creationdate="20190215T132601Z">
+        <seg>Esta oficina é para todos os níveis de experiência._** **Esta oficina é para você se:**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This workshop is for you if:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T162704Z" creationid="Sheila" creationdate="20190210T162704Z">
         <seg>Esta oficina é para você se:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To further refine your topic, apply “Who, What, Why, How, When, Where” to your topic.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Para refinar ainda mais o seu tópico, faça perguntas começando por “Quem, O quê, Por que, Como, Quando, Onde”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Travel</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011451Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Viajar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Watch language, such as gender pronouns and transgender terminology.]</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190212T124829Z" creationid="Sheila" creationdate="20190212T124829Z">
+        <seg>Preste atenção à linguagem, como pronomes de gênero e terminologia transgêneros.]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We are going to do a brainstorming exercise.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Vamos fazer um exercício de toró de ideias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We are keeping track of how many WP groups run the workshops this year.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T125239Z" creationid="Sheila" creationdate="20190215T020704Z">
+        <seg>Estamos acompanhando o número de grupos WP que farão oficinas este ano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We want a more fair representation of the users in the people who are speaking.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T013813Z" creationid="Sheila" creationdate="20190212T220052Z">
+        <seg>Queremos uma representação mais justa dos usuários entre as pessoas que estão palestrando na comunidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We will be passing a sign up sheet (or you will receive an email).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T013215Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Vamos passar uma folha de inscrição (ou você receberá um e-mail).</seg>
       </tuv>
     </tu>
     <tu>
@@ -366,10 +1598,114 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>What</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T013121Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>O que</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What does this plugin do?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>O que esse plugin faz?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What most excites you?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>O que mais empolga você?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T013150Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Quando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When would you use it?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Quando você usaria isso?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Where</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T013151Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Onde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Where would you use it?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Onde você usaria isso?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Who</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Quem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Why</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T013147Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Por que</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Why haven’t you talked at a meetup or WordCamp?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Por que você não falou em um encontro ou no WordCamp?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Why speak at WordPress events?</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T162915Z" creationid="Sheila" creationdate="20190210T162915Z">
         <seg>Por que falar em eventos WordPress?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Why was this plugin created?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Por que este plugin foi criado?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With the group, pick the one you are most excited about and you think you’d like to develop further.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Com a ajuda do grupo, escolha o tópico com o qual você está mais empolgado e acha que gostaria de desenvolver mais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress is amazing in that it is open source and so all sorts of people use it.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T013807Z" creationid="Sheila" creationdate="20190212T220044Z">
+        <seg>O WordPress é incrível e, por ser de código aberto, todos os tipos de pessoas podem usá-lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -390,10 +1726,106 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Yes, people very well might ask questions you can’t answer, but that’s okay!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011032Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Sim, as pessoas podem mesmo fazer perguntas que você não saiba responder, mas tudo bem!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are probably more of an expert than you think you are.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T010737Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Você é provavelmente mais especialista do que pensa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can find a topic where you have knowledge that your audience does not.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T010710Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Você pode encontrar um tópico sobre o qual tenha conhecimento que seu público não tem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use the toilet at any time, and get up and move around whenever you want to.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T141130Z" creationid="Sheila" creationdate="20190215T141130Z">
+        <seg>Você pode usar o banheiro a qualquer momento, levantar-se e andar um pouco sempre que quiser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can write, draw, do mind-maps, list, any format you like.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Você pode escrever, desenhar, fazer mapas mentais, listar qualquer formato que desejar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You could lead a group discussion, or lead a workshop, or put together a panel discussion.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011402Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Você pode liderar uma discussão em grupo ou uma oficina, ou criar um painel de discussão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have 3 minutes.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190212T205443Z" creationid="Sheila" creationdate="20190212T205443Z">
+        <seg>Você tem 3 minutos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You just need to know more about your topic than your audience knows.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T010701Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Você só precisa saber mais sobre o seu tema do que o seu público.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You think you don’t know anything worth speaking about</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T162752Z" creationid="Sheila" creationdate="20190210T162752Z">
         <seg>Você acha que não sabe de nada que valha a pena falar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will definitely want to download and make some edits as there are some instructions for you in the slides themselves.)_</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140515Z" creationid="Sheila" creationdate="20190215T140515Z">
+        <seg>Você deverá baixar e fazer algumas edições porque há instruções para você nos próprios slides.) _</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will start at the top and when you get to a "Which section are you running next?" slide, choose the next lesson you are doing this day.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140434Z" creationid="Sheila" creationdate="20190215T140434Z">
+        <seg>Você vai começar no topo e quando você chegar a um slide dizendo "qual será a próxima seção?", escolha a próxima lição que você fará neste dia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your audience gets that too – after all, most of them didn’t have the bravery to speak.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011110Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Seu público entende isso também, afinal, a maioria deles não tem coragem de falar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your audience understands that not everyone knows everything, and it can be hard to think on your feet – the audience is sympathetic.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011037Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
+        <seg>Seu público entende que nem todo mundo sabe tudo, e pode ser difícil ter as respostas na hora. O público simpatiza com essa situação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -430,6 +1862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>[One example of how this can be done easily](https://twitter.com/jillbinder/status/967601640365703168).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140942Z" creationid="Sheila" creationdate="20190215T140942Z">
+        <seg>[Um exemplo de como isso pode ser feito com facilidade](https://twitter.com/jillbinder/status/967601640365703168).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>[State why we need more diversity in our public speakers.]</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T193108Z" creationid="Sheila" creationdate="20190210T193108Z">
@@ -442,6 +1882,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T162941Z" creationid="Sheila" creationdate="20190210T162930Z">
         <seg>[Por que precisamos de mais &lt;grupo específico&gt; falando neles?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[Why do we need more {specific group} speaking at them?]</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T135704Z" creationid="Sheila" creationdate="20190215T135704Z">
+        <seg>[Por que precisamos de mais {grupo específico} falando neles?]</seg>
       </tuv>
     </tu>
     <tu>
@@ -466,6 +1914,30 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190210T162722Z" creationid="Sheila" creationdate="20190210T162722Z">
         <seg>[Você se identifica como &lt;grupo específico&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>_[If you are presenting this to a specific group, such as people who identify as women, optional sections to add are indicated in [square brackets].]_</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T125543Z" creationid="Sheila" creationdate="20190215T125543Z">
+        <seg>_[Se você estiver apresentando isso a um grupo específico, como pessoas que se identificam como mulheres, há seções opcionais que podem ser adicionadas, indicadas entre [colchetes].]_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{Specific group} have experiences that aren't necessarily being shared right now.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T135859Z" creationid="Sheila" creationdate="20190215T135859Z">
+        <seg>{grupo específico} têm experiências que não estão necessariamente sendo compartilhadas agora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{Specific group} may, therefore feel like they don't belong there.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T135831Z" creationid="Sheila" creationdate="20190215T135831Z">
+        <seg>Portanto, {grupo específico} podem sentir que não pertencem ao espaço.</seg>
       </tuv>
     </tu>
     <tu>
