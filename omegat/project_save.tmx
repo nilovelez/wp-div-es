@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>### Dispelling The Myths (What We Think A Speaker Is vs What They Actually Are)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T172625Z" creationid="Sheila" creationdate="20190215T172625Z">
+        <seg>### Como desfazer os mitos (o que nós achamos de palestrantes versus o que eles realmente são)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>### Go Through Agenda</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142353Z" creationid="Sheila" creationdate="20190215T142353Z">
@@ -102,10 +110,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>### What We Are Looking For</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T172555Z" creationid="Sheila" creationdate="20190215T172555Z">
+        <seg>### O que procuramos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>### Why are we holding a workshop for {specific group}</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T145317Z" creationid="Sheila" creationdate="20190215T135814Z">
         <seg>### Por que estamos fazendo uma oficina para {grupo específico}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>#### **Myth 1: I’m not an expert!**</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T172645Z" creationid="Sheila" creationdate="20190215T172645Z">
+        <seg>#### **Mito 1: Eu não sou um(a) especialista!**</seg>
       </tuv>
     </tu>
     <tu>
@@ -638,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>4.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T172234Z" creationid="Sheila" creationdate="20190215T172234Z">
+        <seg>4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A disproportionately large number of the speakers at WordPress meetups and WordCamps (and tech events in general) are one kind of person.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T145357Z" creationid="Sheila" creationdate="20190215T145357Z">
@@ -734,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As long as you know a little bit more than many of the people in your audience, that's all you need.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T172714Z" creationid="Sheila" creationdate="20190215T172714Z">
+        <seg>Contanto que saiba um pouco mais do que muitas das pessoas em seu público, isso é tudo que você precisa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As well, different talk formats involving more people becomes more engaging.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T011528Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
@@ -802,6 +842,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T135840Z" creationid="Sheila" creationdate="20190215T135840Z">
         <seg>Mas há muitas(os) {grupo específico} com conhecimentos amplos para compartilhar e todos podem se sentir incluídos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By bringing in more diverse people, there's a better chance of bringing in folks who are straddling several roles and thus creating unique things with unique perspectives.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T172255Z" creationid="Sheila" creationdate="20190215T172255Z">
+        <seg>Ao termos grupos mais diversos, há uma possibilidade maior de trazermos pessoas que lidam com diversos papéis e assim criam coisas originais com perspectivas originais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1358,6 +1406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>People to talk about running a business in WordPress, how developers can communicate with designers, different things you can do with WordPress...... etc. ]</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T172546Z" creationid="Sheila" creationdate="20190215T172546Z">
+        <seg>Pessoas que possam falar sobre como tocar um negócio no WordPress, como os desenvolvedores podem se comunicar com os designers, coisas diferentes que você pode fazer com o WordPress... etc.]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pick 2 subjects in the topic list that are your favorite.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="OmegaT Aligner" changedate="20190213T210611Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
@@ -1418,6 +1474,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140331Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
         <seg>Por favor, use o material de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Power users who use it in interesting ways, front-end developers, business people who use plugins to make specific kinds of sites, typographers who use WordPress to do crazy things with typography....</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T172535Z" creationid="Sheila" creationdate="20190215T172535Z">
+        <seg>Usuários que aproveitam o WordPress de maneiras interessantes, desenvolvedores front-end, empreendedores que usam plugins para fazer tipos específicos de sites, tipógrafos que usam o WordPress para fazer coisas loucas com tipografia....</seg>
       </tuv>
     </tu>
     <tu>
@@ -1666,6 +1730,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190214T010715Z" creationid="OmegaT Aligner" creationdate="20190213T210611Z">
         <seg>Há coisas que você faz com o WordPress o tempo todo que outras pessoas não fazem, o que torna você um(a) especialista aos olhos delas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There is a saying, "In the land of the blind, the one-eyed person is king" [or queen].</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T172706Z" creationid="Sheila" creationdate="20190215T172706Z">
+        <seg>Existe um ditado: "em terra de cego, quem tem olho é rei" [ou rainha].</seg>
       </tuv>
     </tu>
     <tu>
