@@ -8,8 +8,8 @@
       <tuv lang="EN">
         <seg># Finding a Topic for a WordPress Talk [and Diversity Speaker Outreach]</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142216Z" creationid="Sheila" creationdate="20190215T012800Z">
-        <seg>XXXComo escolher um tópico para uma palestra sobre o WordPress [e promoção de diversidade entre palestrantes]</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142246Z" creationid="Sheila" creationdate="20190215T012800Z">
+        <seg># Como escolher um tópico para uma apresentação sobre o WordPress [e promoção de diversidade entre palestrantes]</seg>
       </tuv>
     </tu>
     <tu>
@@ -70,10 +70,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>### Go Through Agenda</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142353Z" creationid="Sheila" creationdate="20190215T142353Z">
+        <seg>### Pauta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>### Introduce Facilitator(s)</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T141132Z" creationid="Sheila" creationdate="20190215T141132Z">
-        <seg>### Introduce Facilitator(s)</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142347Z" creationid="Sheila" creationdate="20190215T141132Z">
+        <seg>### Apresentação do(s) facilitador(es)</seg>
       </tuv>
     </tu>
     <tu>
@@ -134,10 +142,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* Big Brain Dump</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142509Z" creationid="Sheila" creationdate="20190215T142509Z">
+        <seg>* Toró de ideias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* Coming up with topics and choosing one</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T135731Z" creationid="Sheila" creationdate="20190215T135731Z">
         <seg>* Como levantar tópicos e escolher um</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Dispelling The Myths of Speakers</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142438Z" creationid="Sheila" creationdate="20190215T142438Z">
+        <seg>* Como desfazer mitos sobre palestrantes</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* Introductions</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142401Z" creationid="Sheila" creationdate="20190215T142401Z">
+        <seg>* Apresentações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* It is useful to have a large device that can show a countdown timer for the timed speaking presentations.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140955Z" creationid="Sheila" creationdate="20190215T140955Z">
@@ -194,6 +226,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140009Z" creationid="Sheila" creationdate="20190215T140009Z">
         <seg>* Não se aplica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Narrowing Your Topic Selection</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142609Z" creationid="Sheila" creationdate="20190215T142609Z">
+        <seg>* Narrowing Your Topic Selection</seg>
       </tuv>
     </tu>
     <tu>
@@ -246,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* Talk Formats</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142501Z" creationid="Sheila" creationdate="20190215T142448Z">
+        <seg>* Formatos de atividades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* The note about getting up and moving around whenever they want to is for accessibility for those who get antsy in their bodies.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T141006Z" creationid="Sheila" creationdate="20190215T141006Z">
@@ -266,6 +314,22 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140628Z" creationid="Sheila" creationdate="20190215T140628Z">
         <seg>* Este plano de aula pode ser executado isoladamente ou em conjunto com outros [planos de aula para palestrantes](https://make.wordpress.org/training/handbook/speaker-training/).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* What We Are Looking For</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142427Z" creationid="Sheila" creationdate="20190215T142427Z">
+        <seg>* O que procuramos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Why Do You Want To Speak?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142445Z" creationid="Sheila" creationdate="20190215T142445Z">
+        <seg>* Por que você quer palestrar?</seg>
       </tuv>
     </tu>
     <tu>
@@ -338,6 +402,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T140101Z" creationid="Sheila" creationdate="20190215T140101Z">
         <seg>* [Declarar porque precisamos de mais diversidade entre nossos palestrantes.]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* [Why are we holding a workshop for]</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190215T142418Z" creationid="Sheila" creationdate="20190215T142418Z">
+        <seg>* [Por que estamos realizando uma oficina para]</seg>
       </tuv>
     </tu>
     <tu>
