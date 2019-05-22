@@ -1,13 +1,14 @@
-19/01/19 18:13
-Estatísticas do projeto
+5/22/19 1:07 PM
+Project Statistics
 
-                           	Segmentos	Palavras	Caracteres (sem espaços)	Caracteres (incluindo espaços)	#Arquivos	
-Total de palavras:         	        0	       0	                       0	                             0	        0	
-Restantes:                 	        0	       0	                       0	                             0	        0	
-Únicos:                    	        0	       0	                       0	                             0	        0	
-Segmentos únicos restantes:	        0	       0	                       0	                             0	        0	
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	     282	 3760	                      17769	                        21224	     1	
+Remaining:       	     282	 3760	                      17769	                        21224	     1	
+Unique:          	     274	 3745	                      17705	                        21152	     1	
+Unique Remaining:	     274	 3745	                      17705	                        21152	     1	
 
 
-Estatísticas do arquivo individual:
+Individual File Statistics:
 
-Nome do arquivo	Total de segmentos 	Segmentos restantes	Segmentos únicos	Segmentos únicos restantes	Total de palavras	Palavras a traduzir	Palavras únicas	Palavras únicas restantes	Total de caracteres (sem espaços)	Caracteres restantes (sem espaços)	Caracteres únicos (sem espaços)	Caracteres únicos restantes (sem espaços)	Total de caracteres (incluindo espaços)	Caracteres restantes (incluindo espaços)	Caracteres únicos (incluindo espaços)	Caracteres únicos restantes (incluindo espaços)	
+File Name                               	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+Finding a Topic for a WordPress Talk.txt	           282	               282	            274	                      274	       3760	           3760	        3745	                  3745	                            17769	                                17769	                             17705	                                       17705	                              21224	                                  21224	                               21152	                                         21152	

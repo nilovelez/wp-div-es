@@ -13,9 +13,6 @@
       <tuv lang="EN">
         <seg># Finding a Topic for a WordPress Talk [and Diversity Speaker Outreach]</seg>
       </tuv>
-      <tuv lang="ES" changeid="nilo" changedate="20190522T105035Z">
-        <seg># Cómo encontrar un tema para una charla sobre WordPress [y aumentar la diversidad de los ponentes]</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -25,9 +22,6 @@
     <tu>
       <tuv lang="EN">
         <seg>## Meetup Description</seg>
-      </tuv>
-      <tuv lang="ES" changeid="nilo" changedate="20190522T105248Z">
-        <seg>## Descripción para Meetup</seg>
       </tuv>
     </tu>
     <tu>
@@ -1029,9 +1023,6 @@
       <tuv lang="EN">
         <seg>If you're planning on running it, please either [let us know here](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/diversity-speaker-training-workshop/) or message @jillbinder on Slack.</seg>
       </tuv>
-      <tuv lang="ES" changeid="nilo" changedate="20190522T105611Z">
-        <seg>Si tienes pensado hacerlo, [háznoslo saber aquí](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/diversity-speaker-training-workshop/) o escribe a @jillbinder en Slack. </seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -1522,9 +1513,6 @@
       <tuv lang="EN">
         <seg>We are keeping track of how many WP groups run the workshops this year.</seg>
       </tuv>
-      <tuv lang="ES" changeid="nilo" changedate="20190522T105134Z">
-        <seg>Estamos llevando el control de cuántos grupos de WP hacen el taller este año.</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -1819,9 +1807,6 @@
     <tu>
       <tuv lang="EN">
         <seg>_[If you are presenting this to a specific group, such as people who identify as women, optional sections to add are indicated in [square brackets].]_</seg>
-      </tuv>
-      <tuv lang="ES" changeid="nilo" changedate="20190522T105715Z">
-        <seg>,_[Si vas a presentar esto a un grupo específico, como a personas que se identifican como mujeres, las secciones opcionales que añadir están indicadas [entre corchetes].]_</seg>
       </tuv>
     </tu>
     <tu>
