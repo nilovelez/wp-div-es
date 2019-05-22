@@ -1,14 +1,14 @@
-5/22/19 1:07 PM
+5/22/19 1:28 PM
 Project Statistics
 
                  	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
 Total:           	     282	 3760	                      17769	                        21224	     1	
-Remaining:       	     282	 3760	                      17769	                        21224	     1	
+Remaining:       	     281	 3749	                      17709	                        21153	     1	
 Unique:          	     274	 3745	                      17705	                        21152	     1	
-Unique Remaining:	     274	 3745	                      17705	                        21152	     1	
+Unique Remaining:	     273	 3734	                      17645	                        21081	     1	
 
 
 Individual File Statistics:
 
 File Name                               	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
-Finding a Topic for a WordPress Talk.txt	           282	               282	            274	                      274	       3760	           3760	        3745	                  3745	                            17769	                                17769	                             17705	                                       17705	                              21224	                                  21224	                               21152	                                         21152	
+Finding a Topic for a WordPress Talk.txt	           282	               281	            274	                      273	       3760	           3749	        3745	                  3734	                            17769	                                17709	                             17705	                                       17645	                              21224	                                  21153	                               21152	                                         21081	

@@ -1,1830 +1,1230 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE tmx SYSTEM "tmx11.dtd">
-<tmx version="1.1">
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_11_r10546" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>"How to make a plugin" might be someone walking through how to make it, maybe even live coding, and then at the end, there are questions.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg># Finding a Topic for a WordPress Talk [and Diversity Speaker Outreach]</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="nilo" changedate="20190522T112706Z">
+      <tuv xml:lang="ES-ES" changeid="nilo" changedate="20190522T112706Z">
         <seg># Encontrar tema para una charla sobre WordPress [y aumentar la diversidad de los ponentes]</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>## Assets</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>## Meetup Description</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>## Objectives</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>## Prerequisite Skills</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>## Screening Questions</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>## Teacher Notes</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>## Workshop</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>### **Refining Topic**</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>### Big Brain Dump</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>### Dispelling The Myths (What We Think A Speaker Is vs What They Actually Are)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>### Go Through Agenda</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>### Introduce Facilitator(s)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>### Introductions [Long Version — Interview Neighbor ice breaker game]</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>### Introductions [Short Version]</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>### Present Topic</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>### Sign Up</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>### Talk Formats</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>### Topic Selection</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>### What We Are Looking For</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>### Why Do You Want To Speak?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>### Why are we holding a workshop for {specific group}</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>#### **Myth 1: I’m not an expert!**</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>#### **Myth 2: People will ask questions I can’t answer, and I’ll look like a fool.**</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>#### **Myth 3: I’m too nervous to speak!**</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>#### **Myth 4: I have failed if everyone in the audience isn’t totally engaged**.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>#### **Myth 5: A talk followed by a Q&amp;A is the only format I can use to share my knowledge.**</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>(e.g. I don’t know much about making plugins but I’ve made one for custom post types).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>* **Case Study:** The story of how you created one thing, in particular</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>* **Discussion:** You are the facilitator on a topic and the audience discusses it together</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>* **How To:** The standard way that tech talks happen</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>* **Panel:** Multiple people answer questions on the same topic</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>* **Story-based:** This could be how you learned something, mistakes you made, or any other narrative format</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>* **Workshop:** A hands-on learning experience where people bring their laptops and create a thing as you go</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* A cool thing you've created?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>* A large device that can show a countdown timer for the timed speaking presentations, such as an iPad</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>* A list of what you want to learn</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>* After, encourage them via a sign-up sheet or follow up email to give their contact information to agree to chat further about speaking at an event.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* Also, remember that it’s okay to say, “I don’t know” – people will think more highly of you if you admit you don’t know than if you try to make up an answer.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* Apply what you have learned to your own outline.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>* Ask people to write their pronouns on their nametags.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>* At the last presentation of the day, when they are presenting their topics, pitches, or outlines depending on which lesson(s) you are running, change the room to presentation format (seats in rows facing forward toward the speaker)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>* Big Brain Dump</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* Biggest block you’ve ever had with WordPress?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>* Biggest challenge in WordPress in the last year or two</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>* Coming up with topics and choosing one</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* Cool tricks you use all the time?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>* Dispelling The Myths of Speakers</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>* Dispelling some myths about speakers/speaking</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>* Favorite plugin?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* Favorite resources?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>* First time you: child theme, wrote plugin, etc.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>* Have several ideas for topics you could speak about</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* Have the group sit in chairs in a circle, or in small groups around tables for most of the sessions.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* Identify many of the fears that have stopped you from public speaking.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* If a movie of your life was made, which actor would you want to play you?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* If you could have dinner with any person, living or dead, who would it be?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>* Introductions</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* It is useful to have a large device that can show a countdown timer for the timed speaking presentations.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>* Make sure the venue is accessible (ramps, elevators, etc.)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* N/A</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>* Narrowing Your Topic Selection</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* Please do not wear scents.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>* Practice giving a short talk</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* Practice public speaking in front of a small group to help build confidence.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>* Present Your Topic</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* Recall the different types of talk formats.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>* Recognize the basics of a good outline.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>* Refining Your Chosen Topic</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>* Sign up sheet, clipboard, pen</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* Sometimes people ask questions that are off topic – feel free to tell them their question is off-topic and you would be happy to discuss it with them later.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>* Talk Formats</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>* The last thing that you learned?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* The note about getting up and moving around whenever they want to is for accessibility for those who get antsy in their bodies.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* The venue has [elevators, ramps, etc.], [single stall washrooms for non-binary genders], [etc.].</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* This lesson plan can be run alone or together with several other [Speaker lesson plans](https://make.wordpress.org/training/handbook/speaker-training/).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>* What We Are Looking For</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* What are you most passionate about when it comes to WordPress?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* What could you talk about without slides?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* What country would you most like to travel to?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* What do you love about it?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* What do you want to learn next?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* What got you into WordPress?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* What is one fun thing you did this week?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* What is the most life altering experience you’ve had in the last five years?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* What is your favorite way to waste time at work, without getting caught?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>* What is your speaking experience, if any?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* What keeps you in it?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* What prompt did we not ask which you wish we did?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* What question about WordPress do you get asked about most by clients, friends, and family?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* What sorts of things do you love sharing with others about WP?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* What you want out of the workshop</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>* Why Do You Want To Speak?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* Why speak at WordPress events?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* You can ask if anyone in the audience has the answer.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* You can tell them you will look up the answer and get back to them.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>* You think you don't know anything worth speaking about</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>* Your WordPress experience</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>* Your name</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>* Your preferred pronoun</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>* You’ve thought about speaking at Meetup or WordCamp but haven’t been able to think of a topic</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* [Do you identify as {specific group}?]</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* [If holding the group for women: Don’t hold it at 9pm at night.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>* [If you are running an event for a specific group, here are notes on dos and don’ts you will want to read: [https://make.wordpress.org/community/2014/09/12/how-to-run-a-minority-only-event/](https://make.wordpress.org/community/2014/09/12/how-to-run-a-minority-only-event/) ]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>* [If you’re doing this for diversity purposes, have a person from that specific group lead the talk.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>* [Slides (link to Google doc)](https://drive.google.com/open?id=1I-BlIHsvP_zJgc6AAIOBt0xUgtUUI7Q3X_VnUSNoxH4) _(All of the Speaker Training lessons are included.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>* [State why we need more diversity in our public speakers.]</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>* [Why are we holding a workshop for]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>* [Workbook (link to Google doc)](https://drive.google.com/open?id=1SINx2PxKA1fiHOXSf_c_BVTFXRxoajFA) _(You may download and edit as needed.)_</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>* [You don’t think it matters that there are very few {specific group} speakers at WordPress events]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>* [You identify as {not specific group}]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>* [You identify as {specific group}]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>**(optional) Questions for the group:** What do you think?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>***You do NOT have to have any experience in public speaking.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>**Accessibility**</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>**Agenda**</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>**This workshop is NOT for you if:**</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>**_***You do NOT have to have any experience in public speaking.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>1.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>10.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>11.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>2.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>3.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>4.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>5.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>6.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>7.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>8.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>9.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>A disproportionately large number of the speakers at WordPress meetups and WordCamps (and tech events in general) are one kind of person.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>A large device that can show a countdown timer for the timed speaking presentations, such as an iPad</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>A lot of talks are big "how to" brain dump sessions.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>A lot of us suffer from Imposter Syndrome.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>A question for you: Why do you want to speak?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>A talk can also be more than one person.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>Accessibility</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>After people have given their reasons (or if no one gives reasons), read off this list:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>After, encourage them via a sign-up sheet or follow up email to give their contact information to agree to chat further about speaking at an event.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Agenda</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>An iPad would work.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>And no matter how good a speaker you are, you will not connect with everyone in the audience.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>Apply what you have learned to your own outline.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>As long as you know a little bit more than many of the people in your audience, that's all you need.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>As well, different talk formats involving more people becomes more engaging.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>Assets #Assets</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>At the end when they are presenting their topics/pitches/outlines, change the room to presentation format (seats in rows facing forward toward the speaker)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Audiences generally sit with neutral faces, so if they aren’t smiling and nodding and cheering, that doesn’t mean they aren’t engaged.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Be a role model for {my specific group}</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>Be seen as an authority in your field</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Becoming a Better Speaker</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Brainstorm as many topic ideas as you can in 15 minutes.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>Build your confidence</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>But if you are still nervous, that’s okay!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>But there are many {specific group} with a wide range of knowledge to share and everyone can feel included.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>By bringing in more diverse people, there's a better chance of bringing in folks who are straddling several roles and thus creating unique things with unique perspectives.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>Career building</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Case studies make great talks – talk about how you did something, how you learned something, how you overcame an obstacle, the process you went through to create something or to solve a problem.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Chairs all facing the same direction—to the front, where a person will stand to talk.)_</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>Coming up with topics and choosing one</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Creating Great Slides</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Creating Your WordPress Talk</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Description #Description</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Different color tags can also be helpful.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>Dispelling some myths about speakers/speaking</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Do you feel like you don’t have anything worth sharing?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Do you have no idea what to talk about?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Duo talks are really engaging.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>During this hands-on session, we’ll look at what has stopped you from speaking in the past — and explore how to move past your fears.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Each participant will come out of the workshop with a WordCamp or meetup talk idea — and more confidence to submit it.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Emphasize that this isn’t a commitment, it’s an agreement to have further conversation about it.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Even if your audience has knowledge about the same topic, they will not frame that knowledge the same way – they will still have something to learn from you.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Everyone gets nervous in front of audiences, and that’s just a part of being human.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Everyone has a different idea of what “expert” means.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Everyone has their own reasons for not speaking in public, especially at tech events, but most of those reasons are based on myths that we can dispel or concerns that we can address:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Expect that, don’t take it personally, and be happy with the people who do connect with you.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Facilitators say a few words about themselves.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>Finding a Topic for a WordPress Talk</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Finding a Topic for a WordPress Talk [and Diversity Speaker Outreach]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>First of all, most of them probably aren’t as bored as they look.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>First of all, practice practice practice!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>First we are going to help you answer the question, "I don't know what to talk about" or "I don't know enough about anything to give a talk."</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>For example: If you have a favorite plugin, you can try asking who is this plugin for?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>From this list, can you refine your topic?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>Give back to the community</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Going around the circle, each person say:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>Have several ideas for topics you could speak about</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Have the group sit in chairs in a circle, or in small groups around tables for most of the sessions.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Here are some of the various formats:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>How</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>How did you learn it?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>How did you overcome the biggest block?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>How does it work?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>Identify many of the fears that have stopped you from public speaking.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>If it's only one module and this is the last exercise, change the seats into a presentation style format.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>If they are using their phone/tablet/laptop/another device, that doesn’t mean they’re ignoring you - in fact, it might mean they are writing down your every word.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>If time allows, offer to let students talk for a minute or two about their topic._</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>If you are giving this workshop to recruit speakers for a particular WordCamp or meetup, this is a good time to explain what you are looking for if you need speakers to speak on particular subjects or to particular audiences.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>If you are interested in speaking at an event, please sign up to let us know.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>If you care about your topic, that will shine through and that’s what’s important.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>If you don’t know the answer, there are several things you can do:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>If you have used WordPress before, you have knowledge that other people want you to share.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>If you'd rather not, you may say, "Pass."</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>If you're planning on running it, please either [let us know here](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/diversity-speaker-training-workshop/) or message @jillbinder on Slack.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>If you've only talked once, why did you not do it again?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>If you’re having trouble deciding, it’s ok.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>If you’re really nervous, don’t start by speaking at an event where you will have a big audience.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>Imposter Syndrome</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Imposter syndrome is really common – you aren’t alone.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>In fact, it’s okay to admit that you are nervous – people will be sympathetic.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Is there something more specific on which you’d like to give the talk?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>It’s fun!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>I’m nervous right now, too, but I’m up here speaking in front of you and I haven’t died yet!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Just as how a developer's point of view is different from a user's point of view, so are our viewpoints vs the standard speaker.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Just pick one to say to the rest of the group.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Keep in mind that your audience is on your side – they want to see you succeed.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>Learn at conferences - speaking teaches you more</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Lessons in this module include:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Let's all introduce ourselves.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Making a little joke at the beginning about being nervous (like I just did) will dispel the nervous energy in the room.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Many people are allergic to them.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Many people in {our specific group} set a much higher bar for “expert” knowledge than other people do.] Many communities have surveyed their members to ask what kind of information they want to learn at meetups and WordCamps, and most people request beginner topics.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Many {specific group}, by nature of having had different life experiences, would approach problems differently.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>Meet people - be part of the community</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>N/A</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>No one knows everything, and everyone has something to learn.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>No, there are plenty of other ways to share your expertise at WordPress events.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Now that we've talked about why we are holding this workshop for {specific group} [or: what kind of things we're looking for], myths about what it takes to be a speaker, and why you want to speak, let's start talking about the actual talks.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Now we are going to do exercises and you can ask for help in your groups.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Now we are going to go around the circle (or go around the room) and give everyone the opportunity to say what topic they chose.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Now you have one minute to introduce your neighbor to the rest of the group.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>Objectives #Objectives</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Offer childcare if you can.]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Okay, now you’ve got some good, bad and ugly ideas.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>One area where you are always an expert is your own experience.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>One of the ways in which WordPress is being shaped is by the people who speak about it publicly.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Out of that list, pick the two topics from your list that you think best fits the following questions.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>People often walk away feeling overwhelmed and not remembering anything that they learned.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>People to talk about running a business in WordPress, how developers can communicate with designers, different things you can do with WordPress...... etc. ]</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Pick 2 subjects in the topic list that are your favorite.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Pick 2 topics that you are confident about and could lead a how-to presentation.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Pick 2 topics that you don’t know a lot about, but have had some success with.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Pick 2 topics that you think you could teach to others in a hands-on manner.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Pick 2 topics that you’ve successfully worked on that you feel you could do a case study about.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Pick 2 topics you may not know much about but that you would have good questions for.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>Please do not wear scents.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Please pull out your workbooks.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Power users who use it in interesting ways, front-end developers, business people who use plugins to make specific kinds of sites, typographers who use WordPress to do crazy things with typography....</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>Practice giving a short talk</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Practice public speaking in front of a small group to help build confidence.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Prerequisite Skills #Prerequisite Skills</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Recall the different types of talk formats.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Recognize the basics of a good outline.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Remember that there are people out there who know nothing about any of this stuff, and they want to know more!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Remember, it's always great to talk about what excites YOU - not what you think you should talk about.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>Rewarding, feeling of accomplishment</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Screening Questions #Screening Questions</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>See if you can get 30 or 40 ideas.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Seriously, anything that comes to mind.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>Share your knowledge with others</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Sign up sheet, clipboard, pen</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>So you might not feel like an expert, but you are!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Some events offer the opportunity for lightning talks - this is a great format if you’re nervous because it’s okay to talk fast and it’s over quickly.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Sometimes when you’re speaking, you will look out at the audience and it will look like everyone is bored.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Start at a smaller meetup.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Talking about how you learned something, for example, means other people can also learn how to learn.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>Teacher Notes #Teacher Notes</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Tell them you’ll post the answer on your blog – then you get more visitors to your website!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Thank you for attending today.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>That means that the speakers do not represent everyone sitting in the audience.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>That’s okay - no speaker can connect with everyone.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>That’s okay, you don’t have to be an expert!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>That’s okay.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>The agenda that we are going to cover today is:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>The idea is just to get them out, good, bad, or ugly.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>The more you practice - in front of pets, family, friends, the mirror, small audiences - the less nervous you will be.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>The next few exercises will be found there.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>The venue has [elevators, ramps, etc.], [single stall washrooms for non-binary genders], [etc.].</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Then we will go around the room and each person will have 1 minute to introduce their neighbor with their answer.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>There are a few reasons that we want to hold this workshop for {specific group} today:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>There are other talk formats that promote story-based learning.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>There are sections that repeat in each which only need to be covered once.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>There are things you do with WordPress all the time that other people do not do with WordPress all the time – that makes you an expert in their eyes.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>There is a saying, "In the land of the blind, the one-eyed person is king" [or queen].</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>These kinds of talks are great because they are unique – not just the same information that anyone can find in an online tutorial.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>These topics help everyone overcome the “I’m not an expert” problem – you’re a normal person sharing a normal experience, and that’s valuable, so people will come to value their own experience and expertise.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>This could be a story-based talk.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>This could be for moderating a panel.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>This could be for running a workshop.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>This is a workshop for {specific group} {or: folks} who are thinking about speaking at WordPress events, such as WordPress Meetup and WordCamp.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>This is not a commitment, but we will get in touch with you to discuss the possibility of speaking at an upcoming meetup or WordCamp.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>This lesson plan can be run alone or together with several other Speaker lesson plans.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>This psychological phenomenon where you feel like you are an imposter, you think you don’t really have the knowledge or skills to be here, but you have managed to fool everyone and soon they’ll find out.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>This workshop is NOT for you if:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>This workshop is for all levels of experience.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>This workshop is for all levels of experience._** **This workshop is for you if:**</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>This workshop is for you if:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>To further refine your topic, apply “Who, What, Why, How, When, Where” to your topic.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>Travel</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Watch language, such as gender pronouns and transgender terminology.]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>We are going to do a brainstorming exercise.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>We are keeping track of how many WP groups run the workshops this year.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>We want a more fair representation of the users in the people who are speaking.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>We will be passing a sign up sheet (or you will receive an email).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>We will brainstorm topics you can talk about at a WordCamp or other event.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>We will discuss some common myths about public speaking, different talk formats, and we will focus on finding your areas of expertise (yes, you have areas of expertise!).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>We're not looking for "perfect" or even "good" ideas.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>What</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>What are things you're worried about?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>What does this plugin do?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>What most excites you?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>When</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>When would you use it?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Where</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Where would you use it?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>While you're summoning the idea gods or getting writers' block, or anywhere in between, we'll be prompting you with questions to generate more topics.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>Who</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Why</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Why haven’t you talked at a meetup or WordCamp?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>Why speak at WordPress events?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Why was this plugin created?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>With the group, pick the one you are most excited about and you think you’d like to develop further.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>WordCamp Central has found that this isn't necessarily a good way to impart information.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>WordPress is amazing in that it is open source and so all sorts of people use it.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>Workbook</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Writing the Pitch for your WordPress Talk</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Yes, people very well might ask questions you can’t answer, but that’s okay!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>You are probably more of an expert than you think you are.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>You can find a topic where you have knowledge that your audience does not.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>You can use the toilet at any time, and get up and move around whenever you want to.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>You can use your group to help you when you get stuck.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>You can write, draw, do mind-maps, list, any format you like.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>You could lead a group discussion, or lead a workshop, or put together a panel discussion.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>You have 3 minutes.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>You just need to know more about your topic than your audience knows.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>You think you don’t know anything worth speaking about</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>You will definitely want to download and make some edits as there are some instructions for you in the slides themselves.)_</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>You will start at the top and when you get to a "Which section are you running next?" slide, choose the next lesson you are doing this day.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Your audience gets that too – after all, most of them didn’t have the bravery to speak.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>Your audience understands that not everyone knows everything, and it can be hard to think on your feet – the audience is sympathetic.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>You’ve thought about speaking at Meetup or WordCamp but haven’t been able to think of a topic</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>[A lot of us have imposter syndrome because we don't see people like us presented as experts.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>[Are you a person who identifies as a &lt;specific group&gt;?] Have you considered presenting at a WordCamp but thought you didn’t know enough or felt like an imposter?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>[Do you identify as &lt;specific group&gt;?]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>[If you are presenting this to a specific group, such as people who identify as women, optional sections to add are indicated in [square brackets].]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>[One example of how this can be done easily](https://twitter.com/jillbinder/status/967601640365703168).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>[State why we need more diversity in our public speakers.]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>[Why do we need more &lt;specific group&gt; speaking at them?]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>[Why do we need more {specific group} speaking at them?]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>[You don’t think it matters that there are very few &lt;specific group&gt; speakers at WordPress events]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>[You identify as &lt;not specific group&gt;]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>[You identify as &lt;specific group&gt;]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>_(Choose the short or long version of introductions, depending on how much time you have.)_</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>_(If you are running several speaker training lessons together, regroup the room into a circle.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>_(Instructor may need to vary the time based on workshop attendance and time available)_ Ask your neighbor to answer one of these questions.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>_(Instructor might want to hold up a tablet with a count-down timer)_</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>_(These prompts are only suggestions that you can adapt according to the group's traits and needs.)_</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>_Do this conclusion once per workshop lessons meetup_</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>_Split the room into groups of 4-5 people._</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>_Teacher Note: If someone seems really doubtful about their topic, ask the group if they would like to hear this topic, put up their hands.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>_[If you are presenting this to a specific group, such as people who identify as women, optional sections to add are indicated in [square brackets].]_</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>{Specific group} have experiences that aren't necessarily being shared right now.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv xml:lang="EN">
         <seg>{Specific group} may, therefore feel like they don't belong there.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>﻿Speaker Training [and Diversity Speaker Outreach]</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
