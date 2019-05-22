@@ -26,6 +26,9 @@
       <tuv lang="EN">
         <seg>## Meetup Description</seg>
       </tuv>
+      <tuv lang="ES-ES" changeid="nilo" changedate="20190522T115312Z">
+        <seg>## Descripción de la Meetup</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -1026,6 +1029,9 @@
       <tuv lang="EN">
         <seg>If you're planning on running it, please either [let us know here](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/diversity-speaker-training-workshop/) or message @jillbinder on Slack.</seg>
       </tuv>
+      <tuv lang="ES-ES" changeid="nilo" changedate="20190522T115144Z">
+        <seg>Si estás pensando organizarlo, [háznoslo saber](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/diversity-speaker-training-workshop/) o escribe a @jillbinder on Slack.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -1515,6 +1521,9 @@
     <tu>
       <tuv lang="EN">
         <seg>We are keeping track of how many WP groups run the workshops this year.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="nilo" changedate="20190522T115207Z">
+        <seg>Estamos llevando el control de cuántos grupos de WP hacen el taller este año.</seg>
       </tuv>
     </tu>
     <tu>

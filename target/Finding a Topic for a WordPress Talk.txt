@@ -1,8 +1,8 @@
 # Encontrar tema para una charla sobre WordPress [y aumentar la diversidad de los ponentes]
 
-We are keeping track of how many WP groups run the workshops this year. If you're planning on running it, please either [let us know here](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/diversity-speaker-training-workshop/) or message @jillbinder on Slack. 
+Estamos llevando el control de cuántos grupos de WP hacen el taller este año. Si estás pensando organizarlo, [háznoslo saber](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/diversity-speaker-training-workshop/) o escribe a @jillbinder on Slack. 
 
-## Meetup Description
+## Descripción de la Meetup
 
 _[If you are presenting this to a specific group, such as people who identify as women, optional sections to add are indicated in [square brackets].]_ 
 
